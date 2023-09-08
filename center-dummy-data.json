@@ -12,20 +12,20 @@
       "center_distance": 519,
       "center_tags": [
         {
-          "tagText": "JEE",
-          "isHighlighted": false
+          "tag_text": "JEE",
+          "is_highlighted": false
         },
         {
-          "tagText": "AFCAT",
-          "isHighlighted": false
+          "tag_text": "AFCAT",
+          "is_highlighted": false
         },
         {
-          "tagText": "IELTS",
-          "isHighlighted": false
+          "tag_text": "IELTS",
+          "is_highlighted": false
         },
         {
-          "tagText": "88% Off",
-          "isHighlighted": true
+          "tag_text": "88% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": [
@@ -46,20 +46,20 @@
       "center_distance": 3543,
       "center_tags": [
         {
-          "tagText": "IELTS",
-          "isHighlighted": false
+          "tag_text": "IELTS",
+          "is_highlighted": false
         },
         {
-          "tagText": "CTET",
-          "isHighlighted": false
+          "tag_text": "CTET",
+          "is_highlighted": false
         },
         {
-          "tagText": "JEE",
-          "isHighlighted": false
+          "tag_text": "JEE",
+          "is_highlighted": false
         },
         {
-          "tagText": "92% Off",
-          "isHighlighted": true
+          "tag_text": "92% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": []
@@ -81,12 +81,12 @@
       "center_distance": 1469,
       "center_tags": [
         {
-          "tagText": "UPSC",
-          "isHighlighted": false
+          "tag_text": "UPSC",
+          "is_highlighted": false
         },
         {
-          "tagText": "CTET",
-          "isHighlighted": false
+          "tag_text": "CTET",
+          "is_highlighted": false
         }
       ],
       "bottom_texts": []
@@ -108,24 +108,24 @@
       "center_distance": 544,
       "center_tags": [
         {
-          "tagText": "AFCAT",
-          "isHighlighted": false
+          "tag_text": "AFCAT",
+          "is_highlighted": false
         },
         {
-          "tagText": "TOEFL",
-          "isHighlighted": false
+          "tag_text": "TOEFL",
+          "is_highlighted": false
         },
         {
-          "tagText": "IELTS",
-          "isHighlighted": false
+          "tag_text": "IELTS",
+          "is_highlighted": false
         },
         {
-          "tagText": "IBPS PO",
-          "isHighlighted": false
+          "tag_text": "IBPS PO",
+          "is_highlighted": false
         },
         {
-          "tagText": "33% Off",
-          "isHighlighted": true
+          "tag_text": "33% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": []
@@ -144,8 +144,8 @@
       "center_distance": 684,
       "center_tags": [
         {
-          "tagText": "GATE",
-          "isHighlighted": false
+          "tag_text": "GATE",
+          "is_highlighted": false
         }
       ],
       "bottom_texts": []
@@ -164,12 +164,12 @@
       "center_distance": 3304,
       "center_tags": [
         {
-          "tagText": "RRB",
-          "isHighlighted": false
+          "tag_text": "RRB",
+          "is_highlighted": false
         },
         {
-          "tagText": "IBPS PO",
-          "isHighlighted": false
+          "tag_text": "IBPS PO",
+          "is_highlighted": false
         }
       ],
       "bottom_texts": [
@@ -190,20 +190,20 @@
       "center_distance": 3302,
       "center_tags": [
         {
-          "tagText": "IELTS",
-          "isHighlighted": false
+          "tag_text": "IELTS",
+          "is_highlighted": false
         },
         {
-          "tagText": "NEET",
-          "isHighlighted": false
+          "tag_text": "NEET",
+          "is_highlighted": false
         },
         {
-          "tagText": "RRB",
-          "isHighlighted": false
+          "tag_text": "RRB",
+          "is_highlighted": false
         },
         {
-          "tagText": "98% Off",
-          "isHighlighted": true
+          "tag_text": "98% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": []
@@ -225,16 +225,16 @@
       "center_distance": 4236,
       "center_tags": [
         {
-          "tagText": "CTET",
-          "isHighlighted": false
+          "tag_text": "CTET",
+          "is_highlighted": false
         },
         {
-          "tagText": "AFCAT",
-          "isHighlighted": false
+          "tag_text": "AFCAT",
+          "is_highlighted": false
         },
         {
-          "tagText": "NDA",
-          "isHighlighted": false
+          "tag_text": "NDA",
+          "is_highlighted": false
         }
       ],
       "bottom_texts": []
@@ -253,12 +253,12 @@
       "center_distance": 3944,
       "center_tags": [
         {
-          "tagText": "AFCAT",
-          "isHighlighted": false
+          "tag_text": "AFCAT",
+          "is_highlighted": false
         },
         {
-          "tagText": "34% Off",
-          "isHighlighted": true
+          "tag_text": "34% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": []
@@ -280,20 +280,20 @@
       "center_distance": 1127,
       "center_tags": [
         {
-          "tagText": "TOEFL",
-          "isHighlighted": false
+          "tag_text": "TOEFL",
+          "is_highlighted": false
         },
         {
-          "tagText": "RRB",
-          "isHighlighted": false
+          "tag_text": "RRB",
+          "is_highlighted": false
         },
         {
-          "tagText": "AFCAT",
-          "isHighlighted": false
+          "tag_text": "AFCAT",
+          "is_highlighted": false
         },
         {
-          "tagText": "CTET",
-          "isHighlighted": false
+          "tag_text": "CTET",
+          "is_highlighted": false
         }
       ],
       "bottom_texts": []
@@ -312,16 +312,16 @@
       "center_distance": 1011,
       "center_tags": [
         {
-          "tagText": "RRB",
-          "isHighlighted": false
+          "tag_text": "RRB",
+          "is_highlighted": false
         },
         {
-          "tagText": "GRE",
-          "isHighlighted": false
+          "tag_text": "GRE",
+          "is_highlighted": false
         },
         {
-          "tagText": "20% Off",
-          "isHighlighted": true
+          "tag_text": "20% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": [
@@ -342,16 +342,16 @@
       "center_distance": 3175,
       "center_tags": [
         {
-          "tagText": "SSC CGL",
-          "isHighlighted": false
+          "tag_text": "SSC CGL",
+          "is_highlighted": false
         },
         {
-          "tagText": "IBPS PO",
-          "isHighlighted": false
+          "tag_text": "IBPS PO",
+          "is_highlighted": false
         },
         {
-          "tagText": "CTET",
-          "isHighlighted": false
+          "tag_text": "CTET",
+          "is_highlighted": false
         }
       ],
       "bottom_texts": []
@@ -373,20 +373,20 @@
       "center_distance": 1142,
       "center_tags": [
         {
-          "tagText": "RRB",
-          "isHighlighted": false
+          "tag_text": "RRB",
+          "is_highlighted": false
         },
         {
-          "tagText": "CTET",
-          "isHighlighted": false
+          "tag_text": "CTET",
+          "is_highlighted": false
         },
         {
-          "tagText": "IBPS PO",
-          "isHighlighted": false
+          "tag_text": "IBPS PO",
+          "is_highlighted": false
         },
         {
-          "tagText": "88% Off",
-          "isHighlighted": true
+          "tag_text": "88% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": [
@@ -407,12 +407,12 @@
       "center_distance": 1705,
       "center_tags": [
         {
-          "tagText": "NDA",
-          "isHighlighted": false
+          "tag_text": "NDA",
+          "is_highlighted": false
         },
         {
-          "tagText": "UPSC",
-          "isHighlighted": false
+          "tag_text": "UPSC",
+          "is_highlighted": false
         }
       ],
       "bottom_texts": []
@@ -431,12 +431,12 @@
       "center_distance": 2733,
       "center_tags": [
         {
-          "tagText": "NEET",
-          "isHighlighted": false
+          "tag_text": "NEET",
+          "is_highlighted": false
         },
         {
-          "tagText": "GMAT",
-          "isHighlighted": false
+          "tag_text": "GMAT",
+          "is_highlighted": false
         }
       ],
       "bottom_texts": [
@@ -460,20 +460,20 @@
       "center_distance": 4913,
       "center_tags": [
         {
-          "tagText": "SSC CGL",
-          "isHighlighted": false
+          "tag_text": "SSC CGL",
+          "is_highlighted": false
         },
         {
-          "tagText": "UPSC",
-          "isHighlighted": false
+          "tag_text": "UPSC",
+          "is_highlighted": false
         },
         {
-          "tagText": "IBPS PO",
-          "isHighlighted": false
+          "tag_text": "IBPS PO",
+          "is_highlighted": false
         },
         {
-          "tagText": "26% Off",
-          "isHighlighted": true
+          "tag_text": "26% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": []
@@ -492,12 +492,12 @@
       "center_distance": 3233,
       "center_tags": [
         {
-          "tagText": "NEET",
-          "isHighlighted": false
+          "tag_text": "NEET",
+          "is_highlighted": false
         },
         {
-          "tagText": "NDA",
-          "isHighlighted": false
+          "tag_text": "NDA",
+          "is_highlighted": false
         }
       ],
       "bottom_texts": []
@@ -516,20 +516,20 @@
       "center_distance": 1160,
       "center_tags": [
         {
-          "tagText": "GATE",
-          "isHighlighted": false
+          "tag_text": "GATE",
+          "is_highlighted": false
         },
         {
-          "tagText": "RRB",
-          "isHighlighted": false
+          "tag_text": "RRB",
+          "is_highlighted": false
         },
         {
-          "tagText": "UPSC",
-          "isHighlighted": false
+          "tag_text": "UPSC",
+          "is_highlighted": false
         },
         {
-          "tagText": "94% Off",
-          "isHighlighted": true
+          "tag_text": "94% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": [
@@ -550,16 +550,16 @@
       "center_distance": 1665,
       "center_tags": [
         {
-          "tagText": "GMAT",
-          "isHighlighted": false
+          "tag_text": "GMAT",
+          "is_highlighted": false
         },
         {
-          "tagText": "UPSC",
-          "isHighlighted": false
+          "tag_text": "UPSC",
+          "is_highlighted": false
         },
         {
-          "tagText": "94% Off",
-          "isHighlighted": true
+          "tag_text": "94% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": []
@@ -581,20 +581,20 @@
       "center_distance": 4217,
       "center_tags": [
         {
-          "tagText": "UPSC",
-          "isHighlighted": false
+          "tag_text": "UPSC",
+          "is_highlighted": false
         },
         {
-          "tagText": "NDA",
-          "isHighlighted": false
+          "tag_text": "NDA",
+          "is_highlighted": false
         },
         {
-          "tagText": "GMAT",
-          "isHighlighted": false
+          "tag_text": "GMAT",
+          "is_highlighted": false
         },
         {
-          "tagText": "SSC CGL",
-          "isHighlighted": false
+          "tag_text": "SSC CGL",
+          "is_highlighted": false
         }
       ],
       "bottom_texts": [
@@ -615,12 +615,12 @@
       "center_distance": 4733,
       "center_tags": [
         {
-          "tagText": "SBI PO",
-          "isHighlighted": false
+          "tag_text": "SBI PO",
+          "is_highlighted": false
         },
         {
-          "tagText": "42% Off",
-          "isHighlighted": true
+          "tag_text": "42% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": []
@@ -639,20 +639,20 @@
       "center_distance": 1322,
       "center_tags": [
         {
-          "tagText": "SSC CGL",
-          "isHighlighted": false
+          "tag_text": "SSC CGL",
+          "is_highlighted": false
         },
         {
-          "tagText": "GRE",
-          "isHighlighted": false
+          "tag_text": "GRE",
+          "is_highlighted": false
         },
         {
-          "tagText": "GMAT",
-          "isHighlighted": false
+          "tag_text": "GMAT",
+          "is_highlighted": false
         },
         {
-          "tagText": "54% Off",
-          "isHighlighted": true
+          "tag_text": "54% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": [
@@ -673,16 +673,16 @@
       "center_distance": 1277,
       "center_tags": [
         {
-          "tagText": "CTET",
-          "isHighlighted": false
+          "tag_text": "CTET",
+          "is_highlighted": false
         },
         {
-          "tagText": "SSC CGL",
-          "isHighlighted": false
+          "tag_text": "SSC CGL",
+          "is_highlighted": false
         },
         {
-          "tagText": "16% Off",
-          "isHighlighted": true
+          "tag_text": "16% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": [
@@ -706,24 +706,24 @@
       "center_distance": 722,
       "center_tags": [
         {
-          "tagText": "IBPS PO",
-          "isHighlighted": false
+          "tag_text": "IBPS PO",
+          "is_highlighted": false
         },
         {
-          "tagText": "UPSC",
-          "isHighlighted": false
+          "tag_text": "UPSC",
+          "is_highlighted": false
         },
         {
-          "tagText": "GMAT",
-          "isHighlighted": false
+          "tag_text": "GMAT",
+          "is_highlighted": false
         },
         {
-          "tagText": "CTET",
-          "isHighlighted": false
+          "tag_text": "CTET",
+          "is_highlighted": false
         },
         {
-          "tagText": "40% Off",
-          "isHighlighted": true
+          "tag_text": "40% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": []
@@ -742,8 +742,8 @@
       "center_distance": 1744,
       "center_tags": [
         {
-          "tagText": "GATE",
-          "isHighlighted": false
+          "tag_text": "GATE",
+          "is_highlighted": false
         }
       ],
       "bottom_texts": []
@@ -765,20 +765,20 @@
       "center_distance": 2000,
       "center_tags": [
         {
-          "tagText": "JEE",
-          "isHighlighted": false
+          "tag_text": "JEE",
+          "is_highlighted": false
         },
         {
-          "tagText": "CAT",
-          "isHighlighted": false
+          "tag_text": "CAT",
+          "is_highlighted": false
         },
         {
-          "tagText": "NDA",
-          "isHighlighted": false
+          "tag_text": "NDA",
+          "is_highlighted": false
         },
         {
-          "tagText": "69% Off",
-          "isHighlighted": true
+          "tag_text": "69% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": []
@@ -797,12 +797,12 @@
       "center_distance": 4616,
       "center_tags": [
         {
-          "tagText": "NEET",
-          "isHighlighted": false
+          "tag_text": "NEET",
+          "is_highlighted": false
         },
         {
-          "tagText": "SBI PO",
-          "isHighlighted": false
+          "tag_text": "SBI PO",
+          "is_highlighted": false
         }
       ],
       "bottom_texts": [
@@ -823,8 +823,8 @@
       "center_distance": 693,
       "center_tags": [
         {
-          "tagText": "NEET",
-          "isHighlighted": false
+          "tag_text": "NEET",
+          "is_highlighted": false
         }
       ],
       "bottom_texts": [
@@ -848,20 +848,20 @@
       "center_distance": 768,
       "center_tags": [
         {
-          "tagText": "SBI PO",
-          "isHighlighted": false
+          "tag_text": "SBI PO",
+          "is_highlighted": false
         },
         {
-          "tagText": "GATE",
-          "isHighlighted": false
+          "tag_text": "GATE",
+          "is_highlighted": false
         },
         {
-          "tagText": "SSC CGL",
-          "isHighlighted": false
+          "tag_text": "SSC CGL",
+          "is_highlighted": false
         },
         {
-          "tagText": "JEE",
-          "isHighlighted": false
+          "tag_text": "JEE",
+          "is_highlighted": false
         }
       ],
       "bottom_texts": []
@@ -880,20 +880,20 @@
       "center_distance": 638,
       "center_tags": [
         {
-          "tagText": "TOEFL",
-          "isHighlighted": false
+          "tag_text": "TOEFL",
+          "is_highlighted": false
         },
         {
-          "tagText": "CAT",
-          "isHighlighted": false
+          "tag_text": "CAT",
+          "is_highlighted": false
         },
         {
-          "tagText": "CTET",
-          "isHighlighted": false
+          "tag_text": "CTET",
+          "is_highlighted": false
         },
         {
-          "tagText": "45% Off",
-          "isHighlighted": true
+          "tag_text": "45% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": [
@@ -917,16 +917,16 @@
       "center_distance": 1992,
       "center_tags": [
         {
-          "tagText": "AFCAT",
-          "isHighlighted": false
+          "tag_text": "AFCAT",
+          "is_highlighted": false
         },
         {
-          "tagText": "IBPS PO",
-          "isHighlighted": false
+          "tag_text": "IBPS PO",
+          "is_highlighted": false
         },
         {
-          "tagText": "63% Off",
-          "isHighlighted": true
+          "tag_text": "63% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": []
@@ -945,20 +945,20 @@
       "center_distance": 1605,
       "center_tags": [
         {
-          "tagText": "IBPS PO",
-          "isHighlighted": false
+          "tag_text": "IBPS PO",
+          "is_highlighted": false
         },
         {
-          "tagText": "UPSC",
-          "isHighlighted": false
+          "tag_text": "UPSC",
+          "is_highlighted": false
         },
         {
-          "tagText": "IELTS",
-          "isHighlighted": false
+          "tag_text": "IELTS",
+          "is_highlighted": false
         },
         {
-          "tagText": "GATE",
-          "isHighlighted": false
+          "tag_text": "GATE",
+          "is_highlighted": false
         }
       ],
       "bottom_texts": [
@@ -982,16 +982,16 @@
       "center_distance": 4558,
       "center_tags": [
         {
-          "tagText": "NDA",
-          "isHighlighted": false
+          "tag_text": "NDA",
+          "is_highlighted": false
         },
         {
-          "tagText": "UPSC",
-          "isHighlighted": false
+          "tag_text": "UPSC",
+          "is_highlighted": false
         },
         {
-          "tagText": "14% Off",
-          "isHighlighted": true
+          "tag_text": "14% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": []
@@ -1013,16 +1013,16 @@
       "center_distance": 972,
       "center_tags": [
         {
-          "tagText": "GATE",
-          "isHighlighted": false
+          "tag_text": "GATE",
+          "is_highlighted": false
         },
         {
-          "tagText": "CTET",
-          "isHighlighted": false
+          "tag_text": "CTET",
+          "is_highlighted": false
         },
         {
-          "tagText": "43% Off",
-          "isHighlighted": true
+          "tag_text": "43% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": [
@@ -1043,24 +1043,24 @@
       "center_distance": 4040,
       "center_tags": [
         {
-          "tagText": "AFCAT",
-          "isHighlighted": false
+          "tag_text": "AFCAT",
+          "is_highlighted": false
         },
         {
-          "tagText": "NEET",
-          "isHighlighted": false
+          "tag_text": "NEET",
+          "is_highlighted": false
         },
         {
-          "tagText": "GATE",
-          "isHighlighted": false
+          "tag_text": "GATE",
+          "is_highlighted": false
         },
         {
-          "tagText": "GRE",
-          "isHighlighted": false
+          "tag_text": "GRE",
+          "is_highlighted": false
         },
         {
-          "tagText": "47% Off",
-          "isHighlighted": true
+          "tag_text": "47% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": []
@@ -1082,12 +1082,12 @@
       "center_distance": 3953,
       "center_tags": [
         {
-          "tagText": "TOEFL",
-          "isHighlighted": false
+          "tag_text": "TOEFL",
+          "is_highlighted": false
         },
         {
-          "tagText": "26% Off",
-          "isHighlighted": true
+          "tag_text": "26% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": []
@@ -1109,20 +1109,20 @@
       "center_distance": 4514,
       "center_tags": [
         {
-          "tagText": "UGC-NET",
-          "isHighlighted": false
+          "tag_text": "UGC-NET",
+          "is_highlighted": false
         },
         {
-          "tagText": "GMAT",
-          "isHighlighted": false
+          "tag_text": "GMAT",
+          "is_highlighted": false
         },
         {
-          "tagText": "CLAT",
-          "isHighlighted": false
+          "tag_text": "CLAT",
+          "is_highlighted": false
         },
         {
-          "tagText": "52% Off",
-          "isHighlighted": true
+          "tag_text": "52% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": []
@@ -1141,20 +1141,20 @@
       "center_distance": 1742,
       "center_tags": [
         {
-          "tagText": "GATE",
-          "isHighlighted": false
+          "tag_text": "GATE",
+          "is_highlighted": false
         },
         {
-          "tagText": "GMAT",
-          "isHighlighted": false
+          "tag_text": "GMAT",
+          "is_highlighted": false
         },
         {
-          "tagText": "NDA",
-          "isHighlighted": false
+          "tag_text": "NDA",
+          "is_highlighted": false
         },
         {
-          "tagText": "14% Off",
-          "isHighlighted": true
+          "tag_text": "14% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": []
@@ -1173,20 +1173,20 @@
       "center_distance": 4291,
       "center_tags": [
         {
-          "tagText": "GMAT",
-          "isHighlighted": false
+          "tag_text": "GMAT",
+          "is_highlighted": false
         },
         {
-          "tagText": "GATE",
-          "isHighlighted": false
+          "tag_text": "GATE",
+          "is_highlighted": false
         },
         {
-          "tagText": "TOEFL",
-          "isHighlighted": false
+          "tag_text": "TOEFL",
+          "is_highlighted": false
         },
         {
-          "tagText": "IBPS PO",
-          "isHighlighted": false
+          "tag_text": "IBPS PO",
+          "is_highlighted": false
         }
       ],
       "bottom_texts": []
@@ -1208,20 +1208,20 @@
       "center_distance": 2096,
       "center_tags": [
         {
-          "tagText": "SBI PO",
-          "isHighlighted": false
+          "tag_text": "SBI PO",
+          "is_highlighted": false
         },
         {
-          "tagText": "TOEFL",
-          "isHighlighted": false
+          "tag_text": "TOEFL",
+          "is_highlighted": false
         },
         {
-          "tagText": "IBPS PO",
-          "isHighlighted": false
+          "tag_text": "IBPS PO",
+          "is_highlighted": false
         },
         {
-          "tagText": "19% Off",
-          "isHighlighted": true
+          "tag_text": "19% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": [
@@ -1242,8 +1242,8 @@
       "center_distance": 2593,
       "center_tags": [
         {
-          "tagText": "GRE",
-          "isHighlighted": false
+          "tag_text": "GRE",
+          "is_highlighted": false
         }
       ],
       "bottom_texts": [
@@ -1264,8 +1264,8 @@
       "center_distance": 1337,
       "center_tags": [
         {
-          "tagText": "TOEFL",
-          "isHighlighted": false
+          "tag_text": "TOEFL",
+          "is_highlighted": false
         }
       ],
       "bottom_texts": []
@@ -1287,12 +1287,12 @@
       "center_distance": 3531,
       "center_tags": [
         {
-          "tagText": "AFCAT",
-          "isHighlighted": false
+          "tag_text": "AFCAT",
+          "is_highlighted": false
         },
         {
-          "tagText": "TOEFL",
-          "isHighlighted": false
+          "tag_text": "TOEFL",
+          "is_highlighted": false
         }
       ],
       "bottom_texts": [
@@ -1316,20 +1316,20 @@
       "center_distance": 1459,
       "center_tags": [
         {
-          "tagText": "GRE",
-          "isHighlighted": false
+          "tag_text": "GRE",
+          "is_highlighted": false
         },
         {
-          "tagText": "CAT",
-          "isHighlighted": false
+          "tag_text": "CAT",
+          "is_highlighted": false
         },
         {
-          "tagText": "RRB",
-          "isHighlighted": false
+          "tag_text": "RRB",
+          "is_highlighted": false
         },
         {
-          "tagText": "80% Off",
-          "isHighlighted": true
+          "tag_text": "80% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": [
@@ -1350,12 +1350,12 @@
       "center_distance": 2595,
       "center_tags": [
         {
-          "tagText": "SBI PO",
-          "isHighlighted": false
+          "tag_text": "SBI PO",
+          "is_highlighted": false
         },
         {
-          "tagText": "12% Off",
-          "isHighlighted": true
+          "tag_text": "12% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": []
@@ -1377,12 +1377,12 @@
       "center_distance": 2373,
       "center_tags": [
         {
-          "tagText": "TOEFL",
-          "isHighlighted": false
+          "tag_text": "TOEFL",
+          "is_highlighted": false
         },
         {
-          "tagText": "96% Off",
-          "isHighlighted": true
+          "tag_text": "96% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": []
@@ -1404,16 +1404,16 @@
       "center_distance": 4596,
       "center_tags": [
         {
-          "tagText": "NEET",
-          "isHighlighted": false
+          "tag_text": "NEET",
+          "is_highlighted": false
         },
         {
-          "tagText": "NDA",
-          "isHighlighted": false
+          "tag_text": "NDA",
+          "is_highlighted": false
         },
         {
-          "tagText": "GATE",
-          "isHighlighted": false
+          "tag_text": "GATE",
+          "is_highlighted": false
         }
       ],
       "bottom_texts": [
@@ -1434,24 +1434,24 @@
       "center_distance": 4016,
       "center_tags": [
         {
-          "tagText": "UGC-NET",
-          "isHighlighted": false
+          "tag_text": "UGC-NET",
+          "is_highlighted": false
         },
         {
-          "tagText": "TOEFL",
-          "isHighlighted": false
+          "tag_text": "TOEFL",
+          "is_highlighted": false
         },
         {
-          "tagText": "AFCAT",
-          "isHighlighted": false
+          "tag_text": "AFCAT",
+          "is_highlighted": false
         },
         {
-          "tagText": "RRB",
-          "isHighlighted": false
+          "tag_text": "RRB",
+          "is_highlighted": false
         },
         {
-          "tagText": "43% Off",
-          "isHighlighted": true
+          "tag_text": "43% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": []
@@ -1470,16 +1470,16 @@
       "center_distance": 3166,
       "center_tags": [
         {
-          "tagText": "TOEFL",
-          "isHighlighted": false
+          "tag_text": "TOEFL",
+          "is_highlighted": false
         },
         {
-          "tagText": "NDA",
-          "isHighlighted": false
+          "tag_text": "NDA",
+          "is_highlighted": false
         },
         {
-          "tagText": "CLAT",
-          "isHighlighted": false
+          "tag_text": "CLAT",
+          "is_highlighted": false
         }
       ],
       "bottom_texts": [
@@ -1500,12 +1500,12 @@
       "center_distance": 3397,
       "center_tags": [
         {
-          "tagText": "UGC-NET",
-          "isHighlighted": false
+          "tag_text": "UGC-NET",
+          "is_highlighted": false
         },
         {
-          "tagText": "CLAT",
-          "isHighlighted": false
+          "tag_text": "CLAT",
+          "is_highlighted": false
         }
       ],
       "bottom_texts": []
@@ -1524,16 +1524,16 @@
       "center_distance": 1178,
       "center_tags": [
         {
-          "tagText": "SBI PO",
-          "isHighlighted": false
+          "tag_text": "SBI PO",
+          "is_highlighted": false
         },
         {
-          "tagText": "NDA",
-          "isHighlighted": false
+          "tag_text": "NDA",
+          "is_highlighted": false
         },
         {
-          "tagText": "98% Off",
-          "isHighlighted": true
+          "tag_text": "98% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": []
@@ -1555,12 +1555,12 @@
       "center_distance": 959,
       "center_tags": [
         {
-          "tagText": "RRB",
-          "isHighlighted": false
+          "tag_text": "RRB",
+          "is_highlighted": false
         },
         {
-          "tagText": "AFCAT",
-          "isHighlighted": false
+          "tag_text": "AFCAT",
+          "is_highlighted": false
         }
       ],
       "bottom_texts": [
@@ -1581,20 +1581,20 @@
       "center_distance": 1227,
       "center_tags": [
         {
-          "tagText": "AFCAT",
-          "isHighlighted": false
+          "tag_text": "AFCAT",
+          "is_highlighted": false
         },
         {
-          "tagText": "SSC CGL",
-          "isHighlighted": false
+          "tag_text": "SSC CGL",
+          "is_highlighted": false
         },
         {
-          "tagText": "IELTS",
-          "isHighlighted": false
+          "tag_text": "IELTS",
+          "is_highlighted": false
         },
         {
-          "tagText": "GRE",
-          "isHighlighted": false
+          "tag_text": "GRE",
+          "is_highlighted": false
         }
       ],
       "bottom_texts": []
@@ -1616,12 +1616,12 @@
       "center_distance": 3271,
       "center_tags": [
         {
-          "tagText": "GATE",
-          "isHighlighted": false
+          "tag_text": "GATE",
+          "is_highlighted": false
         },
         {
-          "tagText": "76% Off",
-          "isHighlighted": true
+          "tag_text": "76% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": [
@@ -1642,16 +1642,16 @@
       "center_distance": 4566,
       "center_tags": [
         {
-          "tagText": "CTET",
-          "isHighlighted": false
+          "tag_text": "CTET",
+          "is_highlighted": false
         },
         {
-          "tagText": "IELTS",
-          "isHighlighted": false
+          "tag_text": "IELTS",
+          "is_highlighted": false
         },
         {
-          "tagText": "77% Off",
-          "isHighlighted": true
+          "tag_text": "77% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": []
@@ -1670,12 +1670,12 @@
       "center_distance": 3415,
       "center_tags": [
         {
-          "tagText": "NDA",
-          "isHighlighted": false
+          "tag_text": "NDA",
+          "is_highlighted": false
         },
         {
-          "tagText": "GRE",
-          "isHighlighted": false
+          "tag_text": "GRE",
+          "is_highlighted": false
         }
       ],
       "bottom_texts": [
@@ -1696,8 +1696,8 @@
       "center_distance": 738,
       "center_tags": [
         {
-          "tagText": "TOEFL",
-          "isHighlighted": false
+          "tag_text": "TOEFL",
+          "is_highlighted": false
         }
       ],
       "bottom_texts": []
@@ -1716,16 +1716,16 @@
       "center_distance": 3120,
       "center_tags": [
         {
-          "tagText": "CLAT",
-          "isHighlighted": false
+          "tag_text": "CLAT",
+          "is_highlighted": false
         },
         {
-          "tagText": "UPSC",
-          "isHighlighted": false
+          "tag_text": "UPSC",
+          "is_highlighted": false
         },
         {
-          "tagText": "76% Off",
-          "isHighlighted": true
+          "tag_text": "76% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": []
@@ -1747,20 +1747,20 @@
       "center_distance": 2730,
       "center_tags": [
         {
-          "tagText": "AFCAT",
-          "isHighlighted": false
+          "tag_text": "AFCAT",
+          "is_highlighted": false
         },
         {
-          "tagText": "GATE",
-          "isHighlighted": false
+          "tag_text": "GATE",
+          "is_highlighted": false
         },
         {
-          "tagText": "CLAT",
-          "isHighlighted": false
+          "tag_text": "CLAT",
+          "is_highlighted": false
         },
         {
-          "tagText": "65% Off",
-          "isHighlighted": true
+          "tag_text": "65% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": [
@@ -1781,20 +1781,20 @@
       "center_distance": 4186,
       "center_tags": [
         {
-          "tagText": "GRE",
-          "isHighlighted": false
+          "tag_text": "GRE",
+          "is_highlighted": false
         },
         {
-          "tagText": "GATE",
-          "isHighlighted": false
+          "tag_text": "GATE",
+          "is_highlighted": false
         },
         {
-          "tagText": "CLAT",
-          "isHighlighted": false
+          "tag_text": "CLAT",
+          "is_highlighted": false
         },
         {
-          "tagText": "95% Off",
-          "isHighlighted": true
+          "tag_text": "95% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": [
@@ -1815,12 +1815,12 @@
       "center_distance": 2275,
       "center_tags": [
         {
-          "tagText": "SBI PO",
-          "isHighlighted": false
+          "tag_text": "SBI PO",
+          "is_highlighted": false
         },
         {
-          "tagText": "88% Off",
-          "isHighlighted": true
+          "tag_text": "88% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": []
@@ -1842,24 +1842,24 @@
       "center_distance": 3260,
       "center_tags": [
         {
-          "tagText": "AFCAT",
-          "isHighlighted": false
+          "tag_text": "AFCAT",
+          "is_highlighted": false
         },
         {
-          "tagText": "NEET",
-          "isHighlighted": false
+          "tag_text": "NEET",
+          "is_highlighted": false
         },
         {
-          "tagText": "SSC CGL",
-          "isHighlighted": false
+          "tag_text": "SSC CGL",
+          "is_highlighted": false
         },
         {
-          "tagText": "JEE",
-          "isHighlighted": false
+          "tag_text": "JEE",
+          "is_highlighted": false
         },
         {
-          "tagText": "55% Off",
-          "isHighlighted": true
+          "tag_text": "55% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": []
@@ -1878,8 +1878,8 @@
       "center_distance": 3179,
       "center_tags": [
         {
-          "tagText": "UGC-NET",
-          "isHighlighted": false
+          "tag_text": "UGC-NET",
+          "is_highlighted": false
         }
       ],
       "bottom_texts": [
@@ -1900,12 +1900,12 @@
       "center_distance": 1771,
       "center_tags": [
         {
-          "tagText": "IBPS PO",
-          "isHighlighted": false
+          "tag_text": "IBPS PO",
+          "is_highlighted": false
         },
         {
-          "tagText": "NEET",
-          "isHighlighted": false
+          "tag_text": "NEET",
+          "is_highlighted": false
         }
       ],
       "bottom_texts": [
@@ -1926,12 +1926,12 @@
       "center_distance": 4258,
       "center_tags": [
         {
-          "tagText": "RRB",
-          "isHighlighted": false
+          "tag_text": "RRB",
+          "is_highlighted": false
         },
         {
-          "tagText": "CTET",
-          "isHighlighted": false
+          "tag_text": "CTET",
+          "is_highlighted": false
         }
       ],
       "bottom_texts": []
@@ -1953,20 +1953,20 @@
       "center_distance": 712,
       "center_tags": [
         {
-          "tagText": "GATE",
-          "isHighlighted": false
+          "tag_text": "GATE",
+          "is_highlighted": false
         },
         {
-          "tagText": "SSC CGL",
-          "isHighlighted": false
+          "tag_text": "SSC CGL",
+          "is_highlighted": false
         },
         {
-          "tagText": "JEE",
-          "isHighlighted": false
+          "tag_text": "JEE",
+          "is_highlighted": false
         },
         {
-          "tagText": "50% Off",
-          "isHighlighted": true
+          "tag_text": "50% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": [
@@ -1987,20 +1987,20 @@
       "center_distance": 3580,
       "center_tags": [
         {
-          "tagText": "IBPS PO",
-          "isHighlighted": false
+          "tag_text": "IBPS PO",
+          "is_highlighted": false
         },
         {
-          "tagText": "JEE",
-          "isHighlighted": false
+          "tag_text": "JEE",
+          "is_highlighted": false
         },
         {
-          "tagText": "CAT",
-          "isHighlighted": false
+          "tag_text": "CAT",
+          "is_highlighted": false
         },
         {
-          "tagText": "44% Off",
-          "isHighlighted": true
+          "tag_text": "44% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": []
@@ -2022,20 +2022,20 @@
       "center_distance": 4175,
       "center_tags": [
         {
-          "tagText": "RRB",
-          "isHighlighted": false
+          "tag_text": "RRB",
+          "is_highlighted": false
         },
         {
-          "tagText": "GATE",
-          "isHighlighted": false
+          "tag_text": "GATE",
+          "is_highlighted": false
         },
         {
-          "tagText": "SBI PO",
-          "isHighlighted": false
+          "tag_text": "SBI PO",
+          "is_highlighted": false
         },
         {
-          "tagText": "IBPS PO",
-          "isHighlighted": false
+          "tag_text": "IBPS PO",
+          "is_highlighted": false
         }
       ],
       "bottom_texts": []
@@ -2057,16 +2057,16 @@
       "center_distance": 1681,
       "center_tags": [
         {
-          "tagText": "UGC-NET",
-          "isHighlighted": false
+          "tag_text": "UGC-NET",
+          "is_highlighted": false
         },
         {
-          "tagText": "CTET",
-          "isHighlighted": false
+          "tag_text": "CTET",
+          "is_highlighted": false
         },
         {
-          "tagText": "SBI PO",
-          "isHighlighted": false
+          "tag_text": "SBI PO",
+          "is_highlighted": false
         }
       ],
       "bottom_texts": [
@@ -2087,16 +2087,16 @@
       "center_distance": 3796,
       "center_tags": [
         {
-          "tagText": "RRB",
-          "isHighlighted": false
+          "tag_text": "RRB",
+          "is_highlighted": false
         },
         {
-          "tagText": "NDA",
-          "isHighlighted": false
+          "tag_text": "NDA",
+          "is_highlighted": false
         },
         {
-          "tagText": "IELTS",
-          "isHighlighted": false
+          "tag_text": "IELTS",
+          "is_highlighted": false
         }
       ],
       "bottom_texts": []
@@ -2115,8 +2115,8 @@
       "center_distance": 2717,
       "center_tags": [
         {
-          "tagText": "SBI PO",
-          "isHighlighted": false
+          "tag_text": "SBI PO",
+          "is_highlighted": false
         }
       ],
       "bottom_texts": [
@@ -2137,8 +2137,8 @@
       "center_distance": 2250,
       "center_tags": [
         {
-          "tagText": "UGC-NET",
-          "isHighlighted": false
+          "tag_text": "UGC-NET",
+          "is_highlighted": false
         }
       ],
       "bottom_texts": []
@@ -2157,20 +2157,20 @@
       "center_distance": 548,
       "center_tags": [
         {
-          "tagText": "IELTS",
-          "isHighlighted": false
+          "tag_text": "IELTS",
+          "is_highlighted": false
         },
         {
-          "tagText": "CAT",
-          "isHighlighted": false
+          "tag_text": "CAT",
+          "is_highlighted": false
         },
         {
-          "tagText": "GMAT",
-          "isHighlighted": false
+          "tag_text": "GMAT",
+          "is_highlighted": false
         },
         {
-          "tagText": "32% Off",
-          "isHighlighted": true
+          "tag_text": "32% Off",
+          "is_highlighted": true
         }
       ],
       "bottom_texts": [
