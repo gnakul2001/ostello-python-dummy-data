@@ -3,8 +3,8 @@
     "type": "list",
     "data": {
       "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
+        "type": "asset",
+        "url": "assets/images/center_image.png"
       },
       "center_location": "Kalkaji , New Delhi",
       "center_name": "Success Point",
