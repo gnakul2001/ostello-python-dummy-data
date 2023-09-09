@@ -1,1989 +1,2258 @@
 [
   {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Dwarka, Delhi",
-      "center_name": "Success Point",
-      "center_rating": 4.4,
-      "center_distance": 4724,
-      "center_tags": [
-        {
-          "tag_text": "TOEFL"
-        },
-        {
-          "tag_text": "GMAT"
-        },
-        {
-          "tag_text": "GATE"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "ask_ostello"
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
-      },
-      "center_location": "Kalkaji , New Delhi",
-      "center_name": "Knowledge Hub",
-      "center_rating": 4.8,
-      "center_distance": 3726,
-      "center_tags": [
-        {
-          "tag_text": "CLAT"
-        },
-        {
-          "tag_text": "AFCAT"
-        },
-        {
-          "tag_text": "IBPS PO"
-        },
-        {
-          "tag_text": "TOEFL"
-        }
-      ],
-      "center_discount": 52,
-      "bottom_texts": [
-        "3 of your school students study here"
-      ]
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Rohini, Delhi",
-      "center_name": "Success Point",
-      "center_rating": 4.8,
-      "center_distance": 1269,
-      "center_tags": [
-        {
-          "tag_text": "IELTS"
-        }
-      ],
-      "center_discount": 11,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
-      },
-      "center_location": "Kalkaji , New Delhi",
-      "center_name": "Success Point",
-      "center_rating": 3.9,
-      "center_distance": 2376,
-      "center_tags": [
-        {
-          "tag_text": "SBI PO"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": [
-        "3 of your school students study here"
-      ]
-    }
-  },
-  {
-    "type": "ask_ostello"
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Rohini, Delhi",
-      "center_name": "Elite Coaching",
-      "center_rating": 4.5,
-      "center_distance": 3271,
-      "center_tags": [
-        {
-          "tag_text": "CLAT"
-        }
-      ],
-      "center_discount": 59,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
-      },
-      "center_location": "Kalkaji , New Delhi",
-      "center_name": "Future Academy",
-      "center_rating": 3.9,
-      "center_distance": 4760,
-      "center_tags": [
-        {
-          "tag_text": "SSC CGL"
-        },
-        {
-          "tag_text": "AFCAT"
-        },
-        {
-          "tag_text": "JEE"
-        },
-        {
-          "tag_text": "CAT"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": [
-        "5 of your school students study here"
-      ]
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
-      },
-      "center_location": "Dwarka, Delhi",
-      "center_name": "Elite Coaching",
-      "center_rating": 3.5,
-      "center_distance": 1189,
-      "center_tags": [
-        {
-          "tag_text": "TOEFL"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "ask_ostello"
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Dwarka, Delhi",
-      "center_name": "Knowledge Hub",
-      "center_rating": 4.6,
-      "center_distance": 3066,
-      "center_tags": [
-        {
-          "tag_text": "UPSC"
-        },
-        {
-          "tag_text": "CTET"
-        },
-        {
-          "tag_text": "RRB"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": [
-        "1 of your school students study here"
-      ]
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Kalkaji , New Delhi",
-      "center_name": "Knowledge Hub",
-      "center_rating": 4.6,
-      "center_distance": 1426,
-      "center_tags": [
-        {
-          "tag_text": "NEET"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
-      },
-      "center_location": "Dwarka, Delhi",
-      "center_name": "Metro Coaching Center",
-      "center_rating": 4.2,
-      "center_distance": 984,
-      "center_tags": [
-        {
-          "tag_text": "NEET"
-        },
-        {
-          "tag_text": "UGC-NET"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": [
-        "5 of your school students study here"
-      ]
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Rohini, Delhi",
-      "center_name": "Elite Coaching",
-      "center_rating": 3.9,
-      "center_distance": 2734,
-      "center_tags": [
-        {
-          "tag_text": "RRB"
-        },
-        {
-          "tag_text": "AFCAT"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Kalkaji , New Delhi",
-      "center_name": "Future Academy",
-      "center_rating": 4.3,
-      "center_distance": 1322,
-      "center_tags": [
-        {
-          "tag_text": "CTET"
-        },
-        {
-          "tag_text": "IELTS"
-        },
-        {
-          "tag_text": "GRE"
-        },
-        {
-          "tag_text": "GMAT"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": [
-        "4 of your school students study here"
-      ]
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Dwarka, Delhi",
-      "center_name": "Future Academy",
-      "center_rating": 3.9,
-      "center_distance": 1429,
-      "center_tags": [
-        {
-          "tag_text": "TOEFL"
-        },
-        {
-          "tag_text": "CLAT"
-        },
-        {
-          "tag_text": "NEET"
-        }
-      ],
-      "center_discount": 47,
-      "bottom_texts": [
-        "5 of your school students study here"
-      ]
-    }
-  },
-  {
-    "type": "ask_ostello"
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
-      },
-      "center_location": "Connaught Place, Delhi",
-      "center_name": "Metro Coaching Center",
-      "center_rating": 3.6,
-      "center_distance": 3579,
-      "center_tags": [
-        {
-          "tag_text": "UPSC"
-        }
-      ],
-      "center_discount": 13,
-      "bottom_texts": [
-        "5 of your school students study here"
-      ]
-    }
-  },
-  {
-    "type": "ask_ostello"
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Kalkaji , New Delhi",
-      "center_name": "Knowledge Hub",
-      "center_rating": 4.5,
-      "center_distance": 1119,
-      "center_tags": [
-        {
-          "tag_text": "CTET"
-        },
-        {
-          "tag_text": "RRB"
-        },
-        {
-          "tag_text": "SBI PO"
-        },
-        {
-          "tag_text": "NEET"
-        }
-      ],
-      "center_discount": 60,
-      "bottom_texts": [
-        "1 of your school students study here"
-      ]
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Connaught Place, Delhi",
-      "center_name": "Metro Coaching Center",
-      "center_rating": 3.1,
-      "center_distance": 3714,
-      "center_tags": [
-        {
-          "tag_text": "SSC CGL"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Saket, Delhi",
-      "center_name": "Future Academy",
-      "center_rating": 4.6,
-      "center_distance": 1301,
-      "center_tags": [
-        {
-          "tag_text": "TOEFL"
-        },
-        {
-          "tag_text": "GMAT"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
-      },
-      "center_location": "Kalkaji , New Delhi",
-      "center_name": "Success Point",
-      "center_rating": 3.1,
-      "center_distance": 795,
-      "center_tags": [
-        {
-          "tag_text": "UPSC"
-        },
-        {
-          "tag_text": "IELTS"
-        }
-      ],
-      "center_discount": 93,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Saket, Delhi",
-      "center_name": "Future Academy",
-      "center_rating": 3.2,
-      "center_distance": 4786,
-      "center_tags": [
-        {
-          "tag_text": "GATE"
-        },
-        {
-          "tag_text": "RRB"
-        }
-      ],
-      "center_discount": 44,
-      "bottom_texts": [
-        "4 of your school students study here"
-      ]
-    }
-  },
-  {
-    "type": "ask_ostello"
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Kalkaji , New Delhi",
-      "center_name": "Knowledge Hub",
-      "center_rating": 4.0,
-      "center_distance": 557,
-      "center_tags": [
-        {
-          "tag_text": "CAT"
-        },
-        {
-          "tag_text": "CLAT"
-        },
-        {
-          "tag_text": "GMAT"
-        },
-        {
-          "tag_text": "UPSC"
-        }
-      ],
-      "center_discount": 97,
-      "bottom_texts": [
-        "3 of your school students study here"
-      ]
-    }
-  },
-  {
-    "type": "ask_ostello"
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
-      },
-      "center_location": "Connaught Place, Delhi",
-      "center_name": "Metro Coaching Center",
-      "center_rating": 3.3,
-      "center_distance": 1697,
-      "center_tags": [
-        {
-          "tag_text": "JEE"
-        },
-        {
-          "tag_text": "CTET"
-        },
-        {
-          "tag_text": "GATE"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
-      },
-      "center_location": "Rohini, Delhi",
-      "center_name": "Elite Coaching",
-      "center_rating": 4.6,
-      "center_distance": 1906,
-      "center_tags": [
-        {
-          "tag_text": "RRB"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": [
-        "2 of your school students study here"
-      ]
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
-      },
-      "center_location": "Saket, Delhi",
-      "center_name": "Metro Coaching Center",
-      "center_rating": 3.9,
-      "center_distance": 3041,
-      "center_tags": [
-        {
-          "tag_text": "GMAT"
-        },
-        {
-          "tag_text": "JEE"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "ask_ostello"
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
-      },
-      "center_location": "Rohini, Delhi",
-      "center_name": "Metro Coaching Center",
-      "center_rating": 4.9,
-      "center_distance": 1484,
-      "center_tags": [
-        {
-          "tag_text": "SSC CGL"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Saket, Delhi",
-      "center_name": "Future Academy",
-      "center_rating": 4.2,
-      "center_distance": 2894,
-      "center_tags": [
-        {
-          "tag_text": "UPSC"
-        },
-        {
-          "tag_text": "SBI PO"
-        }
-      ],
-      "center_discount": 95,
-      "bottom_texts": [
-        "5 of your school students study here"
-      ]
-    }
-  },
-  {
-    "type": "ask_ostello"
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
-      },
-      "center_location": "Saket, Delhi",
-      "center_name": "Knowledge Hub",
-      "center_rating": 4.7,
-      "center_distance": 3161,
-      "center_tags": [
-        {
-          "tag_text": "RRB"
-        },
-        {
-          "tag_text": "UPSC"
-        },
-        {
-          "tag_text": "SSC CGL"
-        },
-        {
-          "tag_text": "CTET"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Dwarka, Delhi",
-      "center_name": "Future Academy",
-      "center_rating": 4.1,
-      "center_distance": 3147,
-      "center_tags": [
-        {
-          "tag_text": "CAT"
-        },
-        {
-          "tag_text": "NEET"
-        }
-      ],
-      "center_discount": 22,
-      "bottom_texts": [
-        "2 of your school students study here"
-      ]
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Connaught Place, Delhi",
-      "center_name": "Future Academy",
-      "center_rating": 3.3,
-      "center_distance": 3878,
-      "center_tags": [
-        {
-          "tag_text": "NEET"
-        },
-        {
-          "tag_text": "SBI PO"
-        }
-      ],
-      "center_discount": 28,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
-      },
-      "center_location": "Kalkaji , New Delhi",
-      "center_name": "Future Academy",
-      "center_rating": 4.3,
-      "center_distance": 4031,
-      "center_tags": [
-        {
-          "tag_text": "IELTS"
-        },
-        {
-          "tag_text": "SSC CGL"
-        },
-        {
-          "tag_text": "IBPS PO"
-        },
-        {
-          "tag_text": "UGC-NET"
-        }
-      ],
-      "center_discount": 83,
-      "bottom_texts": [
-        "2 of your school students study here"
-      ]
-    }
-  },
-  {
-    "type": "ask_ostello"
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Connaught Place, Delhi",
-      "center_name": "Elite Coaching",
-      "center_rating": 4.8,
-      "center_distance": 4131,
-      "center_tags": [
-        {
-          "tag_text": "JEE"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
-      },
-      "center_location": "Dwarka, Delhi",
-      "center_name": "Elite Coaching",
-      "center_rating": 3.8,
-      "center_distance": 4172,
-      "center_tags": [
-        {
-          "tag_text": "CTET"
-        },
-        {
-          "tag_text": "TOEFL"
-        },
-        {
-          "tag_text": "CAT"
-        },
-        {
-          "tag_text": "NDA"
-        }
-      ],
-      "center_discount": 38,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "ask_ostello"
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Connaught Place, Delhi",
-      "center_name": "Metro Coaching Center",
-      "center_rating": 3.5,
-      "center_distance": 1027,
-      "center_tags": [
-        {
-          "tag_text": "TOEFL"
-        },
-        {
-          "tag_text": "CLAT"
-        }
-      ],
-      "center_discount": 93,
-      "bottom_texts": [
-        "3 of your school students study here"
-      ]
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Kalkaji , New Delhi",
-      "center_name": "Elite Coaching",
-      "center_rating": 3.1,
-      "center_distance": 2979,
-      "center_tags": [
-        {
-          "tag_text": "IBPS PO"
-        },
-        {
-          "tag_text": "SSC CGL"
-        }
-      ],
-      "center_discount": 52,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Rohini, Delhi",
-      "center_name": "Metro Coaching Center",
-      "center_rating": 3.7,
-      "center_distance": 4172,
-      "center_tags": [
-        {
-          "tag_text": "IELTS"
-        },
-        {
-          "tag_text": "GMAT"
-        },
-        {
-          "tag_text": "SBI PO"
-        }
-      ],
-      "center_discount": 22,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
-      },
-      "center_location": "Connaught Place, Delhi",
-      "center_name": "Knowledge Hub",
-      "center_rating": 4.3,
-      "center_distance": 3421,
-      "center_tags": [
-        {
-          "tag_text": "GMAT"
-        },
-        {
-          "tag_text": "GATE"
-        },
-        {
-          "tag_text": "NDA"
-        },
-        {
-          "tag_text": "SBI PO"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "ask_ostello"
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Rohini, Delhi",
-      "center_name": "Future Academy",
-      "center_rating": 3.4,
-      "center_distance": 4599,
-      "center_tags": [
-        {
-          "tag_text": "GRE"
-        },
-        {
-          "tag_text": "AFCAT"
-        },
-        {
-          "tag_text": "NDA"
-        },
-        {
-          "tag_text": "RRB"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Dwarka, Delhi",
-      "center_name": "Success Point",
-      "center_rating": 3.7,
-      "center_distance": 1083,
-      "center_tags": [
-        {
-          "tag_text": "RRB"
-        },
-        {
-          "tag_text": "IELTS"
-        },
-        {
-          "tag_text": "SBI PO"
-        },
-        {
-          "tag_text": "CAT"
-        }
-      ],
-      "center_discount": 66,
-      "bottom_texts": [
-        "5 of your school students study here"
-      ]
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
-      },
-      "center_location": "Connaught Place, Delhi",
-      "center_name": "Future Academy",
-      "center_rating": 4.8,
-      "center_distance": 1460,
-      "center_tags": [
-        {
-          "tag_text": "UGC-NET"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Connaught Place, Delhi",
-      "center_name": "Knowledge Hub",
-      "center_rating": 4.5,
-      "center_distance": 1157,
-      "center_tags": [
-        {
-          "tag_text": "CAT"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": [
-        "2 of your school students study here"
-      ]
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Saket, Delhi",
-      "center_name": "Knowledge Hub",
-      "center_rating": 3.4,
-      "center_distance": 4209,
-      "center_tags": [
-        {
-          "tag_text": "SBI PO"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": [
-        "5 of your school students study here"
-      ]
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
-      },
-      "center_location": "Connaught Place, Delhi",
-      "center_name": "Metro Coaching Center",
-      "center_rating": 3.4,
-      "center_distance": 4065,
-      "center_tags": [
-        {
-          "tag_text": "TOEFL"
-        },
-        {
-          "tag_text": "NDA"
-        },
-        {
-          "tag_text": "UPSC"
-        }
-      ],
-      "center_discount": 52,
-      "bottom_texts": [
-        "3 of your school students study here"
-      ]
-    }
-  },
-  {
-    "type": "ask_ostello"
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Kalkaji , New Delhi",
-      "center_name": "Metro Coaching Center",
-      "center_rating": 3.2,
-      "center_distance": 4543,
-      "center_tags": [
-        {
-          "tag_text": "CLAT"
-        },
-        {
-          "tag_text": "SSC CGL"
-        },
-        {
-          "tag_text": "IELTS"
-        },
-        {
-          "tag_text": "UPSC"
-        }
-      ],
-      "center_discount": 30,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "ask_ostello"
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
-      },
-      "center_location": "Connaught Place, Delhi",
-      "center_name": "Elite Coaching",
-      "center_rating": 4.9,
-      "center_distance": 3950,
-      "center_tags": [
-        {
-          "tag_text": "UPSC"
-        },
-        {
-          "tag_text": "RRB"
-        },
-        {
-          "tag_text": "IELTS"
-        },
-        {
-          "tag_text": "NEET"
-        }
-      ],
-      "center_discount": 36,
-      "bottom_texts": [
-        "1 of your school students study here"
-      ]
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
-      },
-      "center_location": "Dwarka, Delhi",
-      "center_name": "Knowledge Hub",
-      "center_rating": 4.1,
-      "center_distance": 4844,
-      "center_tags": [
-        {
-          "tag_text": "IBPS PO"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Kalkaji , New Delhi",
-      "center_name": "Elite Coaching",
-      "center_rating": 4.5,
-      "center_distance": 2570,
-      "center_tags": [
-        {
-          "tag_text": "SSC CGL"
-        },
-        {
-          "tag_text": "UGC-NET"
-        }
-      ],
-      "center_discount": 93,
-      "bottom_texts": [
-        "2 of your school students study here"
-      ]
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Saket, Delhi",
-      "center_name": "Metro Coaching Center",
-      "center_rating": 3.8,
-      "center_distance": 4857,
-      "center_tags": [
-        {
-          "tag_text": "NDA"
-        },
-        {
-          "tag_text": "RRB"
-        },
-        {
-          "tag_text": "NEET"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": [
-        "4 of your school students study here"
-      ]
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
-      },
-      "center_location": "Rohini, Delhi",
-      "center_name": "Elite Coaching",
-      "center_rating": 4.1,
-      "center_distance": 4986,
-      "center_tags": [
-        {
-          "tag_text": "NEET"
-        },
-        {
-          "tag_text": "IELTS"
-        },
-        {
-          "tag_text": "JEE"
-        }
-      ],
-      "center_discount": 19,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "ask_ostello"
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
-      },
-      "center_location": "Rohini, Delhi",
-      "center_name": "Knowledge Hub",
-      "center_rating": 4.7,
-      "center_distance": 942,
-      "center_tags": [
-        {
-          "tag_text": "RRB"
-        }
-      ],
-      "center_discount": 70,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
-      },
-      "center_location": "Dwarka, Delhi",
-      "center_name": "Success Point",
-      "center_rating": 4.9,
-      "center_distance": 2539,
-      "center_tags": [
-        {
-          "tag_text": "SSC CGL"
-        },
-        {
-          "tag_text": "GRE"
-        },
-        {
-          "tag_text": "CAT"
-        },
-        {
-          "tag_text": "TOEFL"
-        }
-      ],
-      "center_discount": 30,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "ask_ostello"
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Rohini, Delhi",
-      "center_name": "Elite Coaching",
-      "center_rating": 3.7,
-      "center_distance": 4574,
-      "center_tags": [
-        {
-          "tag_text": "CAT"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Dwarka, Delhi",
-      "center_name": "Metro Coaching Center",
-      "center_rating": 4.2,
-      "center_distance": 4135,
-      "center_tags": [
-        {
-          "tag_text": "NDA"
-        },
-        {
-          "tag_text": "GMAT"
-        },
-        {
-          "tag_text": "RRB"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Connaught Place, Delhi",
-      "center_name": "Knowledge Hub",
-      "center_rating": 4.8,
-      "center_distance": 4226,
-      "center_tags": [
-        {
-          "tag_text": "NDA"
-        },
-        {
-          "tag_text": "SBI PO"
-        }
-      ],
-      "center_discount": 28,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
-      },
-      "center_location": "Saket, Delhi",
-      "center_name": "Metro Coaching Center",
-      "center_rating": 3.2,
-      "center_distance": 3196,
-      "center_tags": [
-        {
-          "tag_text": "CAT"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Rohini, Delhi",
-      "center_name": "Metro Coaching Center",
-      "center_rating": 4.0,
-      "center_distance": 2722,
-      "center_tags": [
-        {
-          "tag_text": "IBPS PO"
-        },
-        {
-          "tag_text": "GATE"
-        },
-        {
-          "tag_text": "GMAT"
-        },
-        {
-          "tag_text": "JEE"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "ask_ostello"
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Dwarka, Delhi",
-      "center_name": "Success Point",
-      "center_rating": 4.3,
-      "center_distance": 3284,
-      "center_tags": [
-        {
-          "tag_text": "IELTS"
-        },
-        {
-          "tag_text": "CTET"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "ask_ostello"
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Connaught Place, Delhi",
-      "center_name": "Metro Coaching Center",
-      "center_rating": 3.8,
-      "center_distance": 797,
-      "center_tags": [
-        {
-          "tag_text": "GATE"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Connaught Place, Delhi",
-      "center_name": "Metro Coaching Center",
-      "center_rating": 3.7,
-      "center_distance": 3214,
-      "center_tags": [
-        {
-          "tag_text": "AFCAT"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
-      },
-      "center_location": "Connaught Place, Delhi",
-      "center_name": "Knowledge Hub",
-      "center_rating": 3.4,
-      "center_distance": 4407,
-      "center_tags": [
-        {
-          "tag_text": "IBPS PO"
-        }
-      ],
-      "center_discount": 98,
-      "bottom_texts": [
-        "1 of your school students study here"
-      ]
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
-      },
-      "center_location": "Connaught Place, Delhi",
-      "center_name": "Future Academy",
-      "center_rating": 4.0,
-      "center_distance": 3032,
-      "center_tags": [
-        {
-          "tag_text": "UGC-NET"
-        },
-        {
-          "tag_text": "NDA"
-        },
-        {
-          "tag_text": "GATE"
-        },
-        {
-          "tag_text": "CLAT"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "ask_ostello"
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
-      },
-      "center_location": "Saket, Delhi",
-      "center_name": "Metro Coaching Center",
-      "center_rating": 3.3,
-      "center_distance": 4825,
-      "center_tags": [
-        {
-          "tag_text": "IBPS PO"
-        },
-        {
-          "tag_text": "AFCAT"
-        },
-        {
-          "tag_text": "CAT"
-        },
-        {
-          "tag_text": "GATE"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
-      },
-      "center_location": "Rohini, Delhi",
-      "center_name": "Future Academy",
-      "center_rating": 4.6,
-      "center_distance": 2362,
-      "center_tags": [
-        {
-          "tag_text": "JEE"
-        },
-        {
-          "tag_text": "GATE"
-        },
-        {
-          "tag_text": "IELTS"
-        },
-        {
-          "tag_text": "RRB"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": [
-        "1 of your school students study here"
-      ]
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
-      },
-      "center_location": "Saket, Delhi",
-      "center_name": "Elite Coaching",
-      "center_rating": 4.1,
-      "center_distance": 1307,
-      "center_tags": [
-        {
-          "tag_text": "GATE"
-        },
-        {
-          "tag_text": "SSC CGL"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "ask_ostello"
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Saket, Delhi",
-      "center_name": "Future Academy",
-      "center_rating": 3.5,
-      "center_distance": 1696,
-      "center_tags": [
-        {
-          "tag_text": "GMAT"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Kalkaji , New Delhi",
-      "center_name": "Future Academy",
-      "center_rating": 3.8,
-      "center_distance": 1415,
-      "center_tags": [
-        {
-          "tag_text": "UPSC"
-        },
-        {
-          "tag_text": "CLAT"
-        }
-      ],
-      "center_discount": 56,
-      "bottom_texts": [
-        "4 of your school students study here"
-      ]
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
-      },
-      "center_location": "Dwarka, Delhi",
-      "center_name": "Future Academy",
-      "center_rating": 5.0,
-      "center_distance": 2803,
-      "center_tags": [
-        {
-          "tag_text": "TOEFL"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": [
-        "3 of your school students study here"
-      ]
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Dwarka, Delhi",
-      "center_name": "Metro Coaching Center",
-      "center_rating": 4.0,
-      "center_distance": 4763,
-      "center_tags": [
-        {
-          "tag_text": "NEET"
-        },
-        {
-          "tag_text": "NDA"
-        },
-        {
-          "tag_text": "GATE"
-        },
-        {
-          "tag_text": "SBI PO"
-        }
-      ],
-      "center_discount": 16,
-      "bottom_texts": [
-        "2 of your school students study here"
-      ]
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Rohini, Delhi",
-      "center_name": "Knowledge Hub",
-      "center_rating": 3.1,
-      "center_distance": 808,
-      "center_tags": [
-        {
-          "tag_text": "IELTS"
-        },
-        {
-          "tag_text": "CAT"
-        },
-        {
-          "tag_text": "UGC-NET"
-        },
-        {
-          "tag_text": "GMAT"
-        }
-      ],
-      "center_discount": 29,
-      "bottom_texts": [
-        "4 of your school students study here"
-      ]
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Saket, Delhi",
-      "center_name": "Future Academy",
-      "center_rating": 4.5,
-      "center_distance": 3343,
-      "center_tags": [
-        {
-          "tag_text": "GRE"
-        },
-        {
-          "tag_text": "GATE"
-        },
-        {
-          "tag_text": "TOEFL"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "ask_ostello"
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
-      },
-      "center_location": "Connaught Place, Delhi",
-      "center_name": "Elite Coaching",
-      "center_rating": 4.7,
-      "center_distance": 1056,
-      "center_tags": [
-        {
-          "tag_text": "AFCAT"
-        }
-      ],
-      "center_discount": 53,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
-      },
-      "center_location": "Dwarka, Delhi",
-      "center_name": "Success Point",
-      "center_rating": 5.0,
-      "center_distance": 1573,
-      "center_tags": [
-        {
-          "tag_text": "CLAT"
-        },
-        {
-          "tag_text": "TOEFL"
-        },
-        {
-          "tag_text": "RRB"
-        }
-      ],
-      "center_discount": 96,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "ask_ostello"
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "asset",
-        "url": "assets/images/center_image.png"
-      },
-      "center_location": "Dwarka, Delhi",
-      "center_name": "Elite Coaching",
-      "center_rating": 3.8,
-      "center_distance": 4419,
-      "center_tags": [
-        {
-          "tag_text": "IELTS"
-        },
-        {
-          "tag_text": "CAT"
-        },
-        {
-          "tag_text": "JEE"
-        },
-        {
-          "tag_text": "GATE"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "ask_ostello"
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
-      },
-      "center_location": "Rohini, Delhi",
-      "center_name": "Knowledge Hub",
-      "center_rating": 4.9,
-      "center_distance": 1756,
-      "center_tags": [
-        {
-          "tag_text": "RRB"
-        },
-        {
-          "tag_text": "TOEFL"
-        },
-        {
-          "tag_text": "GRE"
-        },
-        {
-          "tag_text": "IBPS PO"
-        }
-      ],
-      "center_discount": 94,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
-      },
-      "center_location": "Rohini, Delhi",
-      "center_name": "Metro Coaching Center",
-      "center_rating": 4.1,
-      "center_distance": 1142,
-      "center_tags": [
-        {
-          "tag_text": "CTET"
-        },
-        {
-          "tag_text": "RRB"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": [
-        "1 of your school students study here"
-      ]
-    }
-  },
-  {
-    "type": "ask_ostello"
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
-      },
-      "center_location": "Rohini, Delhi",
-      "center_name": "Metro Coaching Center",
-      "center_rating": 3.8,
-      "center_distance": 793,
-      "center_tags": [
-        {
-          "tag_text": "CAT"
-        },
-        {
-          "tag_text": "GATE"
-        },
-        {
-          "tag_text": "UGC-NET"
-        }
-      ],
-      "center_discount": 0,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
-      },
-      "center_location": "Dwarka, Delhi",
-      "center_name": "Metro Coaching Center",
-      "center_rating": 4.3,
-      "center_distance": 4326,
-      "center_tags": [
-        {
-          "tag_text": "CAT"
-        },
-        {
-          "tag_text": "NDA"
-        },
-        {
-          "tag_text": "SBI PO"
-        },
-        {
-          "tag_text": "AFCAT"
-        }
-      ],
-      "center_discount": 95,
-      "bottom_texts": []
-    }
-  },
-  {
-    "type": "list",
-    "data": {
-      "center_image": {
-        "type": "url",
-        "url": "https://via.placeholder.com/157x149"
-      },
-      "center_location": "Rohini, Delhi",
-      "center_name": "Future Academy",
-      "center_rating": 4.7,
-      "center_distance": 3610,
-      "center_tags": [
-        {
-          "tag_text": "SSC CGL"
-        },
-        {
-          "tag_text": "JEE"
-        }
-      ],
-      "center_discount": 22,
-      "bottom_texts": [
-        "1 of your school students study here"
-      ]
-    }
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Kalkaji , New Delhi",
+    "center_name": "Future Academy",
+    "center_rating": 4.6,
+    "center_distance": 2676,
+    "center_tags": [
+      {
+        "tag_text": "NDA"
+      },
+      {
+        "tag_text": "SSC CGL"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Connaught Place, Delhi",
+    "center_name": "Metro Coaching Center",
+    "center_rating": 3.4,
+    "center_distance": 1200,
+    "center_tags": [
+      {
+        "tag_text": "CAT"
+      },
+      {
+        "tag_text": "UGC-NET"
+      },
+      {
+        "tag_text": "AFCAT"
+      }
+    ],
+    "center_discount": 20,
+    "bottom_texts": [
+      "2 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Kalkaji , New Delhi",
+    "center_name": "Success Point",
+    "center_rating": 3.2,
+    "center_distance": 2133,
+    "center_tags": [
+      {
+        "tag_text": "NEET"
+      },
+      {
+        "tag_text": "SSC CGL"
+      }
+    ],
+    "center_discount": 13,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Rohini, Delhi",
+    "center_name": "Future Academy",
+    "center_rating": 3.4,
+    "center_distance": 2351,
+    "center_tags": [
+      {
+        "tag_text": "NDA"
+      },
+      {
+        "tag_text": "UGC-NET"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Saket, Delhi",
+    "center_name": "Success Point",
+    "center_rating": 3.3,
+    "center_distance": 2681,
+    "center_tags": [
+      {
+        "tag_text": "SBI PO"
+      },
+      {
+        "tag_text": "CAT"
+      },
+      {
+        "tag_text": "CLAT"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": [
+      "2 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Saket, Delhi",
+    "center_name": "Knowledge Hub",
+    "center_rating": 4.3,
+    "center_distance": 1714,
+    "center_tags": [
+      {
+        "tag_text": "IELTS"
+      },
+      {
+        "tag_text": "IBPS PO"
+      }
+    ],
+    "center_discount": 71,
+    "bottom_texts": [
+      "2 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Kalkaji , New Delhi",
+    "center_name": "Elite Coaching",
+    "center_rating": 4.0,
+    "center_distance": 2270,
+    "center_tags": [
+      {
+        "tag_text": "CAT"
+      },
+      {
+        "tag_text": "NDA"
+      },
+      {
+        "tag_text": "JEE"
+      },
+      {
+        "tag_text": "AFCAT"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": [
+      "3 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Connaught Place, Delhi",
+    "center_name": "Knowledge Hub",
+    "center_rating": 3.9,
+    "center_distance": 3342,
+    "center_tags": [
+      {
+        "tag_text": "TOEFL"
+      },
+      {
+        "tag_text": "AFCAT"
+      },
+      {
+        "tag_text": "IELTS"
+      },
+      {
+        "tag_text": "CTET"
+      }
+    ],
+    "center_discount": 70,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Dwarka, Delhi",
+    "center_name": "Success Point",
+    "center_rating": 4.2,
+    "center_distance": 4063,
+    "center_tags": [
+      {
+        "tag_text": "RRB"
+      },
+      {
+        "tag_text": "NEET"
+      },
+      {
+        "tag_text": "GRE"
+      },
+      {
+        "tag_text": "IBPS PO"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Rohini, Delhi",
+    "center_name": "Future Academy",
+    "center_rating": 3.3,
+    "center_distance": 745,
+    "center_tags": [
+      {
+        "tag_text": "CTET"
+      },
+      {
+        "tag_text": "CLAT"
+      },
+      {
+        "tag_text": "JEE"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": [
+      "1 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Saket, Delhi",
+    "center_name": "Metro Coaching Center",
+    "center_rating": 4.9,
+    "center_distance": 2895,
+    "center_tags": [
+      {
+        "tag_text": "TOEFL"
+      },
+      {
+        "tag_text": "UPSC"
+      }
+    ],
+    "center_discount": 54,
+    "bottom_texts": [
+      "4 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Connaught Place, Delhi",
+    "center_name": "Knowledge Hub",
+    "center_rating": 4.7,
+    "center_distance": 4789,
+    "center_tags": [
+      {
+        "tag_text": "CLAT"
+      }
+    ],
+    "center_discount": 11,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Connaught Place, Delhi",
+    "center_name": "Success Point",
+    "center_rating": 3.7,
+    "center_distance": 1425,
+    "center_tags": [
+      {
+        "tag_text": "GMAT"
+      },
+      {
+        "tag_text": "GRE"
+      },
+      {
+        "tag_text": "NDA"
+      },
+      {
+        "tag_text": "UGC-NET"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Kalkaji , New Delhi",
+    "center_name": "Metro Coaching Center",
+    "center_rating": 3.9,
+    "center_distance": 2800,
+    "center_tags": [
+      {
+        "tag_text": "RRB"
+      },
+      {
+        "tag_text": "NDA"
+      },
+      {
+        "tag_text": "CLAT"
+      },
+      {
+        "tag_text": "CAT"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Saket, Delhi",
+    "center_name": "Metro Coaching Center",
+    "center_rating": 3.6,
+    "center_distance": 3219,
+    "center_tags": [
+      {
+        "tag_text": "RRB"
+      },
+      {
+        "tag_text": "TOEFL"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Rohini, Delhi",
+    "center_name": "Future Academy",
+    "center_rating": 4.5,
+    "center_distance": 4162,
+    "center_tags": [
+      {
+        "tag_text": "GATE"
+      },
+      {
+        "tag_text": "IBPS PO"
+      }
+    ],
+    "center_discount": 50,
+    "bottom_texts": [
+      "1 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Rohini, Delhi",
+    "center_name": "Success Point",
+    "center_rating": 3.0,
+    "center_distance": 4711,
+    "center_tags": [
+      {
+        "tag_text": "SSC CGL"
+      },
+      {
+        "tag_text": "CAT"
+      },
+      {
+        "tag_text": "NDA"
+      }
+    ],
+    "center_discount": 97,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Connaught Place, Delhi",
+    "center_name": "Success Point",
+    "center_rating": 5.0,
+    "center_distance": 4415,
+    "center_tags": [
+      {
+        "tag_text": "GRE"
+      }
+    ],
+    "center_discount": 100,
+    "bottom_texts": [
+      "5 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Dwarka, Delhi",
+    "center_name": "Knowledge Hub",
+    "center_rating": 4.9,
+    "center_distance": 4748,
+    "center_tags": [
+      {
+        "tag_text": "UPSC"
+      },
+      {
+        "tag_text": "GRE"
+      },
+      {
+        "tag_text": "SSC CGL"
+      }
+    ],
+    "center_discount": 96,
+    "bottom_texts": [
+      "3 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Kalkaji , New Delhi",
+    "center_name": "Knowledge Hub",
+    "center_rating": 3.5,
+    "center_distance": 1060,
+    "center_tags": [
+      {
+        "tag_text": "TOEFL"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Dwarka, Delhi",
+    "center_name": "Elite Coaching",
+    "center_rating": 4.9,
+    "center_distance": 4176,
+    "center_tags": [
+      {
+        "tag_text": "UPSC"
+      }
+    ],
+    "center_discount": 93,
+    "bottom_texts": [
+      "1 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Saket, Delhi",
+    "center_name": "Metro Coaching Center",
+    "center_rating": 4.1,
+    "center_distance": 587,
+    "center_tags": [
+      {
+        "tag_text": "SSC CGL"
+      },
+      {
+        "tag_text": "UPSC"
+      }
+    ],
+    "center_discount": 40,
+    "bottom_texts": [
+      "5 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Saket, Delhi",
+    "center_name": "Future Academy",
+    "center_rating": 3.3,
+    "center_distance": 4061,
+    "center_tags": [
+      {
+        "tag_text": "TOEFL"
+      },
+      {
+        "tag_text": "NDA"
+      }
+    ],
+    "center_discount": 50,
+    "bottom_texts": [
+      "2 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Dwarka, Delhi",
+    "center_name": "Future Academy",
+    "center_rating": 4.5,
+    "center_distance": 4777,
+    "center_tags": [
+      {
+        "tag_text": "TOEFL"
+      },
+      {
+        "tag_text": "IBPS PO"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Kalkaji , New Delhi",
+    "center_name": "Success Point",
+    "center_rating": 3.1,
+    "center_distance": 4774,
+    "center_tags": [
+      {
+        "tag_text": "UGC-NET"
+      },
+      {
+        "tag_text": "GMAT"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Rohini, Delhi",
+    "center_name": "Elite Coaching",
+    "center_rating": 4.8,
+    "center_distance": 907,
+    "center_tags": [
+      {
+        "tag_text": "CLAT"
+      },
+      {
+        "tag_text": "GATE"
+      },
+      {
+        "tag_text": "TOEFL"
+      }
+    ],
+    "center_discount": 94,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Kalkaji , New Delhi",
+    "center_name": "Knowledge Hub",
+    "center_rating": 3.7,
+    "center_distance": 4276,
+    "center_tags": [
+      {
+        "tag_text": "CLAT"
+      }
+    ],
+    "center_discount": 24,
+    "bottom_texts": [
+      "1 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Connaught Place, Delhi",
+    "center_name": "Elite Coaching",
+    "center_rating": 4.0,
+    "center_distance": 2883,
+    "center_tags": [
+      {
+        "tag_text": "GMAT"
+      },
+      {
+        "tag_text": "IELTS"
+      }
+    ],
+    "center_discount": 74,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Rohini, Delhi",
+    "center_name": "Metro Coaching Center",
+    "center_rating": 3.3,
+    "center_distance": 1995,
+    "center_tags": [
+      {
+        "tag_text": "IBPS PO"
+      },
+      {
+        "tag_text": "GMAT"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": [
+      "2 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Connaught Place, Delhi",
+    "center_name": "Success Point",
+    "center_rating": 4.1,
+    "center_distance": 2852,
+    "center_tags": [
+      {
+        "tag_text": "GATE"
+      },
+      {
+        "tag_text": "GMAT"
+      },
+      {
+        "tag_text": "UPSC"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Kalkaji , New Delhi",
+    "center_name": "Future Academy",
+    "center_rating": 4.9,
+    "center_distance": 1646,
+    "center_tags": [
+      {
+        "tag_text": "CTET"
+      }
+    ],
+    "center_discount": 65,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Connaught Place, Delhi",
+    "center_name": "Metro Coaching Center",
+    "center_rating": 4.0,
+    "center_distance": 976,
+    "center_tags": [
+      {
+        "tag_text": "RRB"
+      },
+      {
+        "tag_text": "GMAT"
+      }
+    ],
+    "center_discount": 44,
+    "bottom_texts": [
+      "2 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Saket, Delhi",
+    "center_name": "Elite Coaching",
+    "center_rating": 4.8,
+    "center_distance": 3767,
+    "center_tags": [
+      {
+        "tag_text": "RRB"
+      },
+      {
+        "tag_text": "TOEFL"
+      }
+    ],
+    "center_discount": 53,
+    "bottom_texts": [
+      "3 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Rohini, Delhi",
+    "center_name": "Future Academy",
+    "center_rating": 4.6,
+    "center_distance": 4461,
+    "center_tags": [
+      {
+        "tag_text": "CAT"
+      },
+      {
+        "tag_text": "IELTS"
+      }
+    ],
+    "center_discount": 98,
+    "bottom_texts": [
+      "3 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Connaught Place, Delhi",
+    "center_name": "Metro Coaching Center",
+    "center_rating": 4.6,
+    "center_distance": 2285,
+    "center_tags": [
+      {
+        "tag_text": "TOEFL"
+      },
+      {
+        "tag_text": "IELTS"
+      },
+      {
+        "tag_text": "GMAT"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Connaught Place, Delhi",
+    "center_name": "Knowledge Hub",
+    "center_rating": 3.0,
+    "center_distance": 2968,
+    "center_tags": [
+      {
+        "tag_text": "GATE"
+      },
+      {
+        "tag_text": "NDA"
+      },
+      {
+        "tag_text": "CTET"
+      },
+      {
+        "tag_text": "TOEFL"
+      }
+    ],
+    "center_discount": 55,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Dwarka, Delhi",
+    "center_name": "Metro Coaching Center",
+    "center_rating": 4.8,
+    "center_distance": 1614,
+    "center_tags": [
+      {
+        "tag_text": "CLAT"
+      },
+      {
+        "tag_text": "CTET"
+      },
+      {
+        "tag_text": "UGC-NET"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": [
+      "5 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Connaught Place, Delhi",
+    "center_name": "Future Academy",
+    "center_rating": 4.8,
+    "center_distance": 1879,
+    "center_tags": [
+      {
+        "tag_text": "NEET"
+      },
+      {
+        "tag_text": "GRE"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": [
+      "5 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Saket, Delhi",
+    "center_name": "Knowledge Hub",
+    "center_rating": 3.6,
+    "center_distance": 3966,
+    "center_tags": [
+      {
+        "tag_text": "CTET"
+      },
+      {
+        "tag_text": "IELTS"
+      }
+    ],
+    "center_discount": 15,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Dwarka, Delhi",
+    "center_name": "Knowledge Hub",
+    "center_rating": 4.4,
+    "center_distance": 2672,
+    "center_tags": [
+      {
+        "tag_text": "TOEFL"
+      }
+    ],
+    "center_discount": 69,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Rohini, Delhi",
+    "center_name": "Metro Coaching Center",
+    "center_rating": 3.1,
+    "center_distance": 1468,
+    "center_tags": [
+      {
+        "tag_text": "IBPS PO"
+      },
+      {
+        "tag_text": "GMAT"
+      },
+      {
+        "tag_text": "GATE"
+      },
+      {
+        "tag_text": "GRE"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Saket, Delhi",
+    "center_name": "Knowledge Hub",
+    "center_rating": 4.8,
+    "center_distance": 4894,
+    "center_tags": [
+      {
+        "tag_text": "GATE"
+      },
+      {
+        "tag_text": "TOEFL"
+      },
+      {
+        "tag_text": "CTET"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Rohini, Delhi",
+    "center_name": "Success Point",
+    "center_rating": 3.9,
+    "center_distance": 4999,
+    "center_tags": [
+      {
+        "tag_text": "CAT"
+      },
+      {
+        "tag_text": "CLAT"
+      },
+      {
+        "tag_text": "IBPS PO"
+      },
+      {
+        "tag_text": "JEE"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Rohini, Delhi",
+    "center_name": "Elite Coaching",
+    "center_rating": 3.0,
+    "center_distance": 3923,
+    "center_tags": [
+      {
+        "tag_text": "RRB"
+      },
+      {
+        "tag_text": "IBPS PO"
+      }
+    ],
+    "center_discount": 90,
+    "bottom_texts": [
+      "5 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Kalkaji , New Delhi",
+    "center_name": "Elite Coaching",
+    "center_rating": 3.5,
+    "center_distance": 4146,
+    "center_tags": [
+      {
+        "tag_text": "SBI PO"
+      },
+      {
+        "tag_text": "GRE"
+      },
+      {
+        "tag_text": "JEE"
+      },
+      {
+        "tag_text": "CLAT"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": [
+      "2 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Rohini, Delhi",
+    "center_name": "Elite Coaching",
+    "center_rating": 3.1,
+    "center_distance": 691,
+    "center_tags": [
+      {
+        "tag_text": "SBI PO"
+      },
+      {
+        "tag_text": "NDA"
+      },
+      {
+        "tag_text": "TOEFL"
+      }
+    ],
+    "center_discount": 88,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Saket, Delhi",
+    "center_name": "Elite Coaching",
+    "center_rating": 4.7,
+    "center_distance": 1952,
+    "center_tags": [
+      {
+        "tag_text": "CTET"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": [
+      "3 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Kalkaji , New Delhi",
+    "center_name": "Future Academy",
+    "center_rating": 3.6,
+    "center_distance": 1940,
+    "center_tags": [
+      {
+        "tag_text": "RRB"
+      },
+      {
+        "tag_text": "CTET"
+      },
+      {
+        "tag_text": "SSC CGL"
+      }
+    ],
+    "center_discount": 42,
+    "bottom_texts": [
+      "3 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Rohini, Delhi",
+    "center_name": "Knowledge Hub",
+    "center_rating": 3.1,
+    "center_distance": 2369,
+    "center_tags": [
+      {
+        "tag_text": "AFCAT"
+      },
+      {
+        "tag_text": "GMAT"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Rohini, Delhi",
+    "center_name": "Success Point",
+    "center_rating": 3.4,
+    "center_distance": 4318,
+    "center_tags": [
+      {
+        "tag_text": "CTET"
+      },
+      {
+        "tag_text": "UGC-NET"
+      },
+      {
+        "tag_text": "RRB"
+      }
+    ],
+    "center_discount": 76,
+    "bottom_texts": [
+      "2 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Dwarka, Delhi",
+    "center_name": "Elite Coaching",
+    "center_rating": 4.8,
+    "center_distance": 3051,
+    "center_tags": [
+      {
+        "tag_text": "GRE"
+      },
+      {
+        "tag_text": "GATE"
+      },
+      {
+        "tag_text": "AFCAT"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Connaught Place, Delhi",
+    "center_name": "Success Point",
+    "center_rating": 4.1,
+    "center_distance": 2529,
+    "center_tags": [
+      {
+        "tag_text": "SBI PO"
+      },
+      {
+        "tag_text": "IELTS"
+      },
+      {
+        "tag_text": "GATE"
+      },
+      {
+        "tag_text": "UGC-NET"
+      }
+    ],
+    "center_discount": 12,
+    "bottom_texts": [
+      "2 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Dwarka, Delhi",
+    "center_name": "Elite Coaching",
+    "center_rating": 4.6,
+    "center_distance": 922,
+    "center_tags": [
+      {
+        "tag_text": "CTET"
+      },
+      {
+        "tag_text": "SBI PO"
+      },
+      {
+        "tag_text": "RRB"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": [
+      "5 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Rohini, Delhi",
+    "center_name": "Knowledge Hub",
+    "center_rating": 3.5,
+    "center_distance": 3020,
+    "center_tags": [
+      {
+        "tag_text": "NEET"
+      },
+      {
+        "tag_text": "CAT"
+      },
+      {
+        "tag_text": "UGC-NET"
+      },
+      {
+        "tag_text": "CLAT"
+      }
+    ],
+    "center_discount": 26,
+    "bottom_texts": [
+      "2 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Rohini, Delhi",
+    "center_name": "Elite Coaching",
+    "center_rating": 3.1,
+    "center_distance": 3293,
+    "center_tags": [
+      {
+        "tag_text": "JEE"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Saket, Delhi",
+    "center_name": "Elite Coaching",
+    "center_rating": 4.8,
+    "center_distance": 4324,
+    "center_tags": [
+      {
+        "tag_text": "GMAT"
+      },
+      {
+        "tag_text": "CLAT"
+      },
+      {
+        "tag_text": "UPSC"
+      }
+    ],
+    "center_discount": 38,
+    "bottom_texts": [
+      "3 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Connaught Place, Delhi",
+    "center_name": "Knowledge Hub",
+    "center_rating": 3.4,
+    "center_distance": 4616,
+    "center_tags": [
+      {
+        "tag_text": "CLAT"
+      },
+      {
+        "tag_text": "IELTS"
+      },
+      {
+        "tag_text": "JEE"
+      }
+    ],
+    "center_discount": 98,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Dwarka, Delhi",
+    "center_name": "Elite Coaching",
+    "center_rating": 5.0,
+    "center_distance": 3186,
+    "center_tags": [
+      {
+        "tag_text": "JEE"
+      }
+    ],
+    "center_discount": 24,
+    "bottom_texts": [
+      "2 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Dwarka, Delhi",
+    "center_name": "Future Academy",
+    "center_rating": 3.8,
+    "center_distance": 3274,
+    "center_tags": [
+      {
+        "tag_text": "RRB"
+      },
+      {
+        "tag_text": "CLAT"
+      }
+    ],
+    "center_discount": 92,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Connaught Place, Delhi",
+    "center_name": "Elite Coaching",
+    "center_rating": 4.7,
+    "center_distance": 3595,
+    "center_tags": [
+      {
+        "tag_text": "CTET"
+      },
+      {
+        "tag_text": "IELTS"
+      },
+      {
+        "tag_text": "NDA"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Dwarka, Delhi",
+    "center_name": "Future Academy",
+    "center_rating": 4.2,
+    "center_distance": 2410,
+    "center_tags": [
+      {
+        "tag_text": "CAT"
+      },
+      {
+        "tag_text": "IELTS"
+      }
+    ],
+    "center_discount": 29,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Connaught Place, Delhi",
+    "center_name": "Future Academy",
+    "center_rating": 4.6,
+    "center_distance": 2431,
+    "center_tags": [
+      {
+        "tag_text": "TOEFL"
+      },
+      {
+        "tag_text": "AFCAT"
+      },
+      {
+        "tag_text": "UPSC"
+      }
+    ],
+    "center_discount": 66,
+    "bottom_texts": [
+      "5 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Kalkaji , New Delhi",
+    "center_name": "Knowledge Hub",
+    "center_rating": 3.4,
+    "center_distance": 604,
+    "center_tags": [
+      {
+        "tag_text": "NDA"
+      },
+      {
+        "tag_text": "IBPS PO"
+      },
+      {
+        "tag_text": "UGC-NET"
+      },
+      {
+        "tag_text": "TOEFL"
+      }
+    ],
+    "center_discount": 37,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Saket, Delhi",
+    "center_name": "Success Point",
+    "center_rating": 3.7,
+    "center_distance": 1476,
+    "center_tags": [
+      {
+        "tag_text": "GATE"
+      },
+      {
+        "tag_text": "AFCAT"
+      },
+      {
+        "tag_text": "IELTS"
+      }
+    ],
+    "center_discount": 67,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Kalkaji , New Delhi",
+    "center_name": "Elite Coaching",
+    "center_rating": 4.9,
+    "center_distance": 2252,
+    "center_tags": [
+      {
+        "tag_text": "GMAT"
+      },
+      {
+        "tag_text": "IELTS"
+      },
+      {
+        "tag_text": "SSC CGL"
+      },
+      {
+        "tag_text": "SBI PO"
+      }
+    ],
+    "center_discount": 45,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Rohini, Delhi",
+    "center_name": "Knowledge Hub",
+    "center_rating": 4.9,
+    "center_distance": 2597,
+    "center_tags": [
+      {
+        "tag_text": "CAT"
+      },
+      {
+        "tag_text": "IBPS PO"
+      },
+      {
+        "tag_text": "TOEFL"
+      }
+    ],
+    "center_discount": 50,
+    "bottom_texts": [
+      "1 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Dwarka, Delhi",
+    "center_name": "Future Academy",
+    "center_rating": 4.5,
+    "center_distance": 671,
+    "center_tags": [
+      {
+        "tag_text": "GATE"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Connaught Place, Delhi",
+    "center_name": "Future Academy",
+    "center_rating": 3.8,
+    "center_distance": 2360,
+    "center_tags": [
+      {
+        "tag_text": "CLAT"
+      },
+      {
+        "tag_text": "CAT"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Kalkaji , New Delhi",
+    "center_name": "Metro Coaching Center",
+    "center_rating": 3.2,
+    "center_distance": 971,
+    "center_tags": [
+      {
+        "tag_text": "UPSC"
+      }
+    ],
+    "center_discount": 66,
+    "bottom_texts": [
+      "3 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Saket, Delhi",
+    "center_name": "Metro Coaching Center",
+    "center_rating": 5.0,
+    "center_distance": 3512,
+    "center_tags": [
+      {
+        "tag_text": "IELTS"
+      },
+      {
+        "tag_text": "IBPS PO"
+      },
+      {
+        "tag_text": "NDA"
+      },
+      {
+        "tag_text": "SBI PO"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Dwarka, Delhi",
+    "center_name": "Elite Coaching",
+    "center_rating": 4.0,
+    "center_distance": 2713,
+    "center_tags": [
+      {
+        "tag_text": "SSC CGL"
+      }
+    ],
+    "center_discount": 96,
+    "bottom_texts": [
+      "5 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Saket, Delhi",
+    "center_name": "Elite Coaching",
+    "center_rating": 3.5,
+    "center_distance": 4757,
+    "center_tags": [
+      {
+        "tag_text": "AFCAT"
+      },
+      {
+        "tag_text": "GMAT"
+      },
+      {
+        "tag_text": "CTET"
+      },
+      {
+        "tag_text": "RRB"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Connaught Place, Delhi",
+    "center_name": "Elite Coaching",
+    "center_rating": 3.3,
+    "center_distance": 4047,
+    "center_tags": [
+      {
+        "tag_text": "NEET"
+      },
+      {
+        "tag_text": "IELTS"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": [
+      "3 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Dwarka, Delhi",
+    "center_name": "Success Point",
+    "center_rating": 4.5,
+    "center_distance": 1028,
+    "center_tags": [
+      {
+        "tag_text": "AFCAT"
+      },
+      {
+        "tag_text": "JEE"
+      },
+      {
+        "tag_text": "GATE"
+      },
+      {
+        "tag_text": "TOEFL"
+      }
+    ],
+    "center_discount": 25,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Saket, Delhi",
+    "center_name": "Elite Coaching",
+    "center_rating": 3.2,
+    "center_distance": 4896,
+    "center_tags": [
+      {
+        "tag_text": "NDA"
+      },
+      {
+        "tag_text": "NEET"
+      },
+      {
+        "tag_text": "TOEFL"
+      }
+    ],
+    "center_discount": 63,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Connaught Place, Delhi",
+    "center_name": "Metro Coaching Center",
+    "center_rating": 5.0,
+    "center_distance": 3718,
+    "center_tags": [
+      {
+        "tag_text": "UGC-NET"
+      },
+      {
+        "tag_text": "CAT"
+      },
+      {
+        "tag_text": "RRB"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Saket, Delhi",
+    "center_name": "Elite Coaching",
+    "center_rating": 3.2,
+    "center_distance": 1894,
+    "center_tags": [
+      {
+        "tag_text": "GATE"
+      },
+      {
+        "tag_text": "IELTS"
+      },
+      {
+        "tag_text": "SBI PO"
+      }
+    ],
+    "center_discount": 19,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Saket, Delhi",
+    "center_name": "Metro Coaching Center",
+    "center_rating": 4.3,
+    "center_distance": 3422,
+    "center_tags": [
+      {
+        "tag_text": "NEET"
+      },
+      {
+        "tag_text": "CTET"
+      }
+    ],
+    "center_discount": 43,
+    "bottom_texts": [
+      "3 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Rohini, Delhi",
+    "center_name": "Future Academy",
+    "center_rating": 3.9,
+    "center_distance": 2473,
+    "center_tags": [
+      {
+        "tag_text": "IELTS"
+      },
+      {
+        "tag_text": "GRE"
+      },
+      {
+        "tag_text": "SBI PO"
+      },
+      {
+        "tag_text": "NEET"
+      }
+    ],
+    "center_discount": 26,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Kalkaji , New Delhi",
+    "center_name": "Knowledge Hub",
+    "center_rating": 4.0,
+    "center_distance": 3811,
+    "center_tags": [
+      {
+        "tag_text": "CTET"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": [
+      "3 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Dwarka, Delhi",
+    "center_name": "Success Point",
+    "center_rating": 4.2,
+    "center_distance": 1317,
+    "center_tags": [
+      {
+        "tag_text": "IELTS"
+      },
+      {
+        "tag_text": "AFCAT"
+      },
+      {
+        "tag_text": "IBPS PO"
+      },
+      {
+        "tag_text": "GMAT"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Connaught Place, Delhi",
+    "center_name": "Success Point",
+    "center_rating": 4.0,
+    "center_distance": 2101,
+    "center_tags": [
+      {
+        "tag_text": "GRE"
+      },
+      {
+        "tag_text": "SSC CGL"
+      },
+      {
+        "tag_text": "TOEFL"
+      },
+      {
+        "tag_text": "RRB"
+      }
+    ],
+    "center_discount": 76,
+    "bottom_texts": [
+      "1 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Saket, Delhi",
+    "center_name": "Elite Coaching",
+    "center_rating": 4.7,
+    "center_distance": 1105,
+    "center_tags": [
+      {
+        "tag_text": "UPSC"
+      },
+      {
+        "tag_text": "GATE"
+      },
+      {
+        "tag_text": "JEE"
+      },
+      {
+        "tag_text": "CLAT"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": [
+      "4 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Rohini, Delhi",
+    "center_name": "Future Academy",
+    "center_rating": 3.3,
+    "center_distance": 3457,
+    "center_tags": [
+      {
+        "tag_text": "IELTS"
+      },
+      {
+        "tag_text": "SBI PO"
+      }
+    ],
+    "center_discount": 79,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Connaught Place, Delhi",
+    "center_name": "Success Point",
+    "center_rating": 3.3,
+    "center_distance": 3374,
+    "center_tags": [
+      {
+        "tag_text": "GRE"
+      },
+      {
+        "tag_text": "NEET"
+      },
+      {
+        "tag_text": "CTET"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": [
+      "3 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Rohini, Delhi",
+    "center_name": "Success Point",
+    "center_rating": 3.6,
+    "center_distance": 2376,
+    "center_tags": [
+      {
+        "tag_text": "GMAT"
+      }
+    ],
+    "center_discount": 18,
+    "bottom_texts": [
+      "1 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Dwarka, Delhi",
+    "center_name": "Success Point",
+    "center_rating": 4.8,
+    "center_distance": 3845,
+    "center_tags": [
+      {
+        "tag_text": "IELTS"
+      },
+      {
+        "tag_text": "TOEFL"
+      },
+      {
+        "tag_text": "SBI PO"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Rohini, Delhi",
+    "center_name": "Metro Coaching Center",
+    "center_rating": 4.7,
+    "center_distance": 4044,
+    "center_tags": [
+      {
+        "tag_text": "SSC CGL"
+      },
+      {
+        "tag_text": "NEET"
+      },
+      {
+        "tag_text": "CAT"
+      }
+    ],
+    "center_discount": 89,
+    "bottom_texts": [
+      "5 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Kalkaji , New Delhi",
+    "center_name": "Success Point",
+    "center_rating": 4.2,
+    "center_distance": 2694,
+    "center_tags": [
+      {
+        "tag_text": "JEE"
+      },
+      {
+        "tag_text": "NEET"
+      },
+      {
+        "tag_text": "AFCAT"
+      },
+      {
+        "tag_text": "CAT"
+      }
+    ],
+    "center_discount": 10,
+    "bottom_texts": [
+      "5 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Connaught Place, Delhi",
+    "center_name": "Future Academy",
+    "center_rating": 3.5,
+    "center_distance": 2776,
+    "center_tags": [
+      {
+        "tag_text": "IBPS PO"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Kalkaji , New Delhi",
+    "center_name": "Metro Coaching Center",
+    "center_rating": 3.9,
+    "center_distance": 2746,
+    "center_tags": [
+      {
+        "tag_text": "GATE"
+      },
+      {
+        "tag_text": "NEET"
+      }
+    ],
+    "center_discount": 18,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Saket, Delhi",
+    "center_name": "Metro Coaching Center",
+    "center_rating": 4.1,
+    "center_distance": 4134,
+    "center_tags": [
+      {
+        "tag_text": "JEE"
+      },
+      {
+        "tag_text": "SBI PO"
+      }
+    ],
+    "center_discount": 78,
+    "bottom_texts": [
+      "1 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Dwarka, Delhi",
+    "center_name": "Knowledge Hub",
+    "center_rating": 3.2,
+    "center_distance": 3882,
+    "center_tags": [
+      {
+        "tag_text": "CAT"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Rohini, Delhi",
+    "center_name": "Elite Coaching",
+    "center_rating": 4.2,
+    "center_distance": 2342,
+    "center_tags": [
+      {
+        "tag_text": "CTET"
+      },
+      {
+        "tag_text": "JEE"
+      },
+      {
+        "tag_text": "CLAT"
+      }
+    ],
+    "center_discount": 15,
+    "bottom_texts": [
+      "2 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Saket, Delhi",
+    "center_name": "Future Academy",
+    "center_rating": 3.5,
+    "center_distance": 4115,
+    "center_tags": [
+      {
+        "tag_text": "GATE"
+      },
+      {
+        "tag_text": "GMAT"
+      },
+      {
+        "tag_text": "AFCAT"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": [
+      "5 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Connaught Place, Delhi",
+    "center_name": "Future Academy",
+    "center_rating": 3.6,
+    "center_distance": 3226,
+    "center_tags": [
+      {
+        "tag_text": "CTET"
+      }
+    ],
+    "center_discount": 99,
+    "bottom_texts": [
+      "5 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Saket, Delhi",
+    "center_name": "Metro Coaching Center",
+    "center_rating": 4.9,
+    "center_distance": 1144,
+    "center_tags": [
+      {
+        "tag_text": "IELTS"
+      },
+      {
+        "tag_text": "CAT"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "asset",
+      "url": "assets/images/center_image.png"
+    },
+    "center_location": "Kalkaji , New Delhi",
+    "center_name": "Knowledge Hub",
+    "center_rating": 3.7,
+    "center_distance": 1912,
+    "center_tags": [
+      {
+        "tag_text": "CTET"
+      },
+      {
+        "tag_text": "UPSC"
+      },
+      {
+        "tag_text": "GRE"
+      }
+    ],
+    "center_discount": 69,
+    "bottom_texts": []
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Dwarka, Delhi",
+    "center_name": "Success Point",
+    "center_rating": 3.9,
+    "center_distance": 1323,
+    "center_tags": [
+      {
+        "tag_text": "TOEFL"
+      },
+      {
+        "tag_text": "GMAT"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": [
+      "5 of your school students study here"
+    ]
+  },
+  {
+    "center_image": {
+      "type": "url",
+      "url": "https://via.placeholder.com/157x149"
+    },
+    "center_location": "Dwarka, Delhi",
+    "center_name": "Knowledge Hub",
+    "center_rating": 4.6,
+    "center_distance": 3987,
+    "center_tags": [
+      {
+        "tag_text": "AFCAT"
+      },
+      {
+        "tag_text": "GMAT"
+      }
+    ],
+    "center_discount": 0,
+    "bottom_texts": []
   }
 ]
