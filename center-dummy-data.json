@@ -12,13 +12,13 @@
       "center_distance": 4724,
       "center_tags": [
         {
-          "tagText": "TOEFL"
+          "tag_text": "TOEFL"
         },
         {
-          "tagText": "GMAT"
+          "tag_text": "GMAT"
         },
         {
-          "tagText": "GATE"
+          "tag_text": "GATE"
         }
       ],
       "center_discount": 0,
@@ -41,16 +41,16 @@
       "center_distance": 3726,
       "center_tags": [
         {
-          "tagText": "CLAT"
+          "tag_text": "CLAT"
         },
         {
-          "tagText": "AFCAT"
+          "tag_text": "AFCAT"
         },
         {
-          "tagText": "IBPS PO"
+          "tag_text": "IBPS PO"
         },
         {
-          "tagText": "TOEFL"
+          "tag_text": "TOEFL"
         }
       ],
       "center_discount": 52,
@@ -72,7 +72,7 @@
       "center_distance": 1269,
       "center_tags": [
         {
-          "tagText": "IELTS"
+          "tag_text": "IELTS"
         }
       ],
       "center_discount": 11,
@@ -92,7 +92,7 @@
       "center_distance": 2376,
       "center_tags": [
         {
-          "tagText": "SBI PO"
+          "tag_text": "SBI PO"
         }
       ],
       "center_discount": 0,
@@ -117,7 +117,7 @@
       "center_distance": 3271,
       "center_tags": [
         {
-          "tagText": "CLAT"
+          "tag_text": "CLAT"
         }
       ],
       "center_discount": 59,
@@ -137,16 +137,16 @@
       "center_distance": 4760,
       "center_tags": [
         {
-          "tagText": "SSC CGL"
+          "tag_text": "SSC CGL"
         },
         {
-          "tagText": "AFCAT"
+          "tag_text": "AFCAT"
         },
         {
-          "tagText": "JEE"
+          "tag_text": "JEE"
         },
         {
-          "tagText": "CAT"
+          "tag_text": "CAT"
         }
       ],
       "center_discount": 0,
@@ -168,7 +168,7 @@
       "center_distance": 1189,
       "center_tags": [
         {
-          "tagText": "TOEFL"
+          "tag_text": "TOEFL"
         }
       ],
       "center_discount": 0,
@@ -191,13 +191,13 @@
       "center_distance": 3066,
       "center_tags": [
         {
-          "tagText": "UPSC"
+          "tag_text": "UPSC"
         },
         {
-          "tagText": "CTET"
+          "tag_text": "CTET"
         },
         {
-          "tagText": "RRB"
+          "tag_text": "RRB"
         }
       ],
       "center_discount": 0,
@@ -219,7 +219,7 @@
       "center_distance": 1426,
       "center_tags": [
         {
-          "tagText": "NEET"
+          "tag_text": "NEET"
         }
       ],
       "center_discount": 0,
@@ -239,10 +239,10 @@
       "center_distance": 984,
       "center_tags": [
         {
-          "tagText": "NEET"
+          "tag_text": "NEET"
         },
         {
-          "tagText": "UGC-NET"
+          "tag_text": "UGC-NET"
         }
       ],
       "center_discount": 0,
@@ -264,10 +264,10 @@
       "center_distance": 2734,
       "center_tags": [
         {
-          "tagText": "RRB"
+          "tag_text": "RRB"
         },
         {
-          "tagText": "AFCAT"
+          "tag_text": "AFCAT"
         }
       ],
       "center_discount": 0,
@@ -287,16 +287,16 @@
       "center_distance": 1322,
       "center_tags": [
         {
-          "tagText": "CTET"
+          "tag_text": "CTET"
         },
         {
-          "tagText": "IELTS"
+          "tag_text": "IELTS"
         },
         {
-          "tagText": "GRE"
+          "tag_text": "GRE"
         },
         {
-          "tagText": "GMAT"
+          "tag_text": "GMAT"
         }
       ],
       "center_discount": 0,
@@ -318,13 +318,13 @@
       "center_distance": 1429,
       "center_tags": [
         {
-          "tagText": "TOEFL"
+          "tag_text": "TOEFL"
         },
         {
-          "tagText": "CLAT"
+          "tag_text": "CLAT"
         },
         {
-          "tagText": "NEET"
+          "tag_text": "NEET"
         }
       ],
       "center_discount": 47,
@@ -349,7 +349,7 @@
       "center_distance": 3579,
       "center_tags": [
         {
-          "tagText": "UPSC"
+          "tag_text": "UPSC"
         }
       ],
       "center_discount": 13,
@@ -374,16 +374,16 @@
       "center_distance": 1119,
       "center_tags": [
         {
-          "tagText": "CTET"
+          "tag_text": "CTET"
         },
         {
-          "tagText": "RRB"
+          "tag_text": "RRB"
         },
         {
-          "tagText": "SBI PO"
+          "tag_text": "SBI PO"
         },
         {
-          "tagText": "NEET"
+          "tag_text": "NEET"
         }
       ],
       "center_discount": 60,
@@ -405,7 +405,7 @@
       "center_distance": 3714,
       "center_tags": [
         {
-          "tagText": "SSC CGL"
+          "tag_text": "SSC CGL"
         }
       ],
       "center_discount": 0,
@@ -425,10 +425,10 @@
       "center_distance": 1301,
       "center_tags": [
         {
-          "tagText": "TOEFL"
+          "tag_text": "TOEFL"
         },
         {
-          "tagText": "GMAT"
+          "tag_text": "GMAT"
         }
       ],
       "center_discount": 0,
@@ -448,10 +448,10 @@
       "center_distance": 795,
       "center_tags": [
         {
-          "tagText": "UPSC"
+          "tag_text": "UPSC"
         },
         {
-          "tagText": "IELTS"
+          "tag_text": "IELTS"
         }
       ],
       "center_discount": 93,
@@ -471,10 +471,10 @@
       "center_distance": 4786,
       "center_tags": [
         {
-          "tagText": "GATE"
+          "tag_text": "GATE"
         },
         {
-          "tagText": "RRB"
+          "tag_text": "RRB"
         }
       ],
       "center_discount": 44,
@@ -499,16 +499,16 @@
       "center_distance": 557,
       "center_tags": [
         {
-          "tagText": "CAT"
+          "tag_text": "CAT"
         },
         {
-          "tagText": "CLAT"
+          "tag_text": "CLAT"
         },
         {
-          "tagText": "GMAT"
+          "tag_text": "GMAT"
         },
         {
-          "tagText": "UPSC"
+          "tag_text": "UPSC"
         }
       ],
       "center_discount": 97,
@@ -533,13 +533,13 @@
       "center_distance": 1697,
       "center_tags": [
         {
-          "tagText": "JEE"
+          "tag_text": "JEE"
         },
         {
-          "tagText": "CTET"
+          "tag_text": "CTET"
         },
         {
-          "tagText": "GATE"
+          "tag_text": "GATE"
         }
       ],
       "center_discount": 0,
@@ -559,7 +559,7 @@
       "center_distance": 1906,
       "center_tags": [
         {
-          "tagText": "RRB"
+          "tag_text": "RRB"
         }
       ],
       "center_discount": 0,
@@ -581,10 +581,10 @@
       "center_distance": 3041,
       "center_tags": [
         {
-          "tagText": "GMAT"
+          "tag_text": "GMAT"
         },
         {
-          "tagText": "JEE"
+          "tag_text": "JEE"
         }
       ],
       "center_discount": 0,
@@ -607,7 +607,7 @@
       "center_distance": 1484,
       "center_tags": [
         {
-          "tagText": "SSC CGL"
+          "tag_text": "SSC CGL"
         }
       ],
       "center_discount": 0,
@@ -627,10 +627,10 @@
       "center_distance": 2894,
       "center_tags": [
         {
-          "tagText": "UPSC"
+          "tag_text": "UPSC"
         },
         {
-          "tagText": "SBI PO"
+          "tag_text": "SBI PO"
         }
       ],
       "center_discount": 95,
@@ -655,16 +655,16 @@
       "center_distance": 3161,
       "center_tags": [
         {
-          "tagText": "RRB"
+          "tag_text": "RRB"
         },
         {
-          "tagText": "UPSC"
+          "tag_text": "UPSC"
         },
         {
-          "tagText": "SSC CGL"
+          "tag_text": "SSC CGL"
         },
         {
-          "tagText": "CTET"
+          "tag_text": "CTET"
         }
       ],
       "center_discount": 0,
@@ -684,10 +684,10 @@
       "center_distance": 3147,
       "center_tags": [
         {
-          "tagText": "CAT"
+          "tag_text": "CAT"
         },
         {
-          "tagText": "NEET"
+          "tag_text": "NEET"
         }
       ],
       "center_discount": 22,
@@ -709,10 +709,10 @@
       "center_distance": 3878,
       "center_tags": [
         {
-          "tagText": "NEET"
+          "tag_text": "NEET"
         },
         {
-          "tagText": "SBI PO"
+          "tag_text": "SBI PO"
         }
       ],
       "center_discount": 28,
@@ -732,16 +732,16 @@
       "center_distance": 4031,
       "center_tags": [
         {
-          "tagText": "IELTS"
+          "tag_text": "IELTS"
         },
         {
-          "tagText": "SSC CGL"
+          "tag_text": "SSC CGL"
         },
         {
-          "tagText": "IBPS PO"
+          "tag_text": "IBPS PO"
         },
         {
-          "tagText": "UGC-NET"
+          "tag_text": "UGC-NET"
         }
       ],
       "center_discount": 83,
@@ -766,7 +766,7 @@
       "center_distance": 4131,
       "center_tags": [
         {
-          "tagText": "JEE"
+          "tag_text": "JEE"
         }
       ],
       "center_discount": 0,
@@ -786,16 +786,16 @@
       "center_distance": 4172,
       "center_tags": [
         {
-          "tagText": "CTET"
+          "tag_text": "CTET"
         },
         {
-          "tagText": "TOEFL"
+          "tag_text": "TOEFL"
         },
         {
-          "tagText": "CAT"
+          "tag_text": "CAT"
         },
         {
-          "tagText": "NDA"
+          "tag_text": "NDA"
         }
       ],
       "center_discount": 38,
@@ -818,10 +818,10 @@
       "center_distance": 1027,
       "center_tags": [
         {
-          "tagText": "TOEFL"
+          "tag_text": "TOEFL"
         },
         {
-          "tagText": "CLAT"
+          "tag_text": "CLAT"
         }
       ],
       "center_discount": 93,
@@ -843,10 +843,10 @@
       "center_distance": 2979,
       "center_tags": [
         {
-          "tagText": "IBPS PO"
+          "tag_text": "IBPS PO"
         },
         {
-          "tagText": "SSC CGL"
+          "tag_text": "SSC CGL"
         }
       ],
       "center_discount": 52,
@@ -866,13 +866,13 @@
       "center_distance": 4172,
       "center_tags": [
         {
-          "tagText": "IELTS"
+          "tag_text": "IELTS"
         },
         {
-          "tagText": "GMAT"
+          "tag_text": "GMAT"
         },
         {
-          "tagText": "SBI PO"
+          "tag_text": "SBI PO"
         }
       ],
       "center_discount": 22,
@@ -892,16 +892,16 @@
       "center_distance": 3421,
       "center_tags": [
         {
-          "tagText": "GMAT"
+          "tag_text": "GMAT"
         },
         {
-          "tagText": "GATE"
+          "tag_text": "GATE"
         },
         {
-          "tagText": "NDA"
+          "tag_text": "NDA"
         },
         {
-          "tagText": "SBI PO"
+          "tag_text": "SBI PO"
         }
       ],
       "center_discount": 0,
@@ -924,16 +924,16 @@
       "center_distance": 4599,
       "center_tags": [
         {
-          "tagText": "GRE"
+          "tag_text": "GRE"
         },
         {
-          "tagText": "AFCAT"
+          "tag_text": "AFCAT"
         },
         {
-          "tagText": "NDA"
+          "tag_text": "NDA"
         },
         {
-          "tagText": "RRB"
+          "tag_text": "RRB"
         }
       ],
       "center_discount": 0,
@@ -953,16 +953,16 @@
       "center_distance": 1083,
       "center_tags": [
         {
-          "tagText": "RRB"
+          "tag_text": "RRB"
         },
         {
-          "tagText": "IELTS"
+          "tag_text": "IELTS"
         },
         {
-          "tagText": "SBI PO"
+          "tag_text": "SBI PO"
         },
         {
-          "tagText": "CAT"
+          "tag_text": "CAT"
         }
       ],
       "center_discount": 66,
@@ -984,7 +984,7 @@
       "center_distance": 1460,
       "center_tags": [
         {
-          "tagText": "UGC-NET"
+          "tag_text": "UGC-NET"
         }
       ],
       "center_discount": 0,
@@ -1004,7 +1004,7 @@
       "center_distance": 1157,
       "center_tags": [
         {
-          "tagText": "CAT"
+          "tag_text": "CAT"
         }
       ],
       "center_discount": 0,
@@ -1026,7 +1026,7 @@
       "center_distance": 4209,
       "center_tags": [
         {
-          "tagText": "SBI PO"
+          "tag_text": "SBI PO"
         }
       ],
       "center_discount": 0,
@@ -1048,13 +1048,13 @@
       "center_distance": 4065,
       "center_tags": [
         {
-          "tagText": "TOEFL"
+          "tag_text": "TOEFL"
         },
         {
-          "tagText": "NDA"
+          "tag_text": "NDA"
         },
         {
-          "tagText": "UPSC"
+          "tag_text": "UPSC"
         }
       ],
       "center_discount": 52,
@@ -1079,16 +1079,16 @@
       "center_distance": 4543,
       "center_tags": [
         {
-          "tagText": "CLAT"
+          "tag_text": "CLAT"
         },
         {
-          "tagText": "SSC CGL"
+          "tag_text": "SSC CGL"
         },
         {
-          "tagText": "IELTS"
+          "tag_text": "IELTS"
         },
         {
-          "tagText": "UPSC"
+          "tag_text": "UPSC"
         }
       ],
       "center_discount": 30,
@@ -1111,16 +1111,16 @@
       "center_distance": 3950,
       "center_tags": [
         {
-          "tagText": "UPSC"
+          "tag_text": "UPSC"
         },
         {
-          "tagText": "RRB"
+          "tag_text": "RRB"
         },
         {
-          "tagText": "IELTS"
+          "tag_text": "IELTS"
         },
         {
-          "tagText": "NEET"
+          "tag_text": "NEET"
         }
       ],
       "center_discount": 36,
@@ -1142,7 +1142,7 @@
       "center_distance": 4844,
       "center_tags": [
         {
-          "tagText": "IBPS PO"
+          "tag_text": "IBPS PO"
         }
       ],
       "center_discount": 0,
@@ -1162,10 +1162,10 @@
       "center_distance": 2570,
       "center_tags": [
         {
-          "tagText": "SSC CGL"
+          "tag_text": "SSC CGL"
         },
         {
-          "tagText": "UGC-NET"
+          "tag_text": "UGC-NET"
         }
       ],
       "center_discount": 93,
@@ -1187,13 +1187,13 @@
       "center_distance": 4857,
       "center_tags": [
         {
-          "tagText": "NDA"
+          "tag_text": "NDA"
         },
         {
-          "tagText": "RRB"
+          "tag_text": "RRB"
         },
         {
-          "tagText": "NEET"
+          "tag_text": "NEET"
         }
       ],
       "center_discount": 0,
@@ -1215,13 +1215,13 @@
       "center_distance": 4986,
       "center_tags": [
         {
-          "tagText": "NEET"
+          "tag_text": "NEET"
         },
         {
-          "tagText": "IELTS"
+          "tag_text": "IELTS"
         },
         {
-          "tagText": "JEE"
+          "tag_text": "JEE"
         }
       ],
       "center_discount": 19,
@@ -1244,7 +1244,7 @@
       "center_distance": 942,
       "center_tags": [
         {
-          "tagText": "RRB"
+          "tag_text": "RRB"
         }
       ],
       "center_discount": 70,
@@ -1264,16 +1264,16 @@
       "center_distance": 2539,
       "center_tags": [
         {
-          "tagText": "SSC CGL"
+          "tag_text": "SSC CGL"
         },
         {
-          "tagText": "GRE"
+          "tag_text": "GRE"
         },
         {
-          "tagText": "CAT"
+          "tag_text": "CAT"
         },
         {
-          "tagText": "TOEFL"
+          "tag_text": "TOEFL"
         }
       ],
       "center_discount": 30,
@@ -1296,7 +1296,7 @@
       "center_distance": 4574,
       "center_tags": [
         {
-          "tagText": "CAT"
+          "tag_text": "CAT"
         }
       ],
       "center_discount": 0,
@@ -1316,13 +1316,13 @@
       "center_distance": 4135,
       "center_tags": [
         {
-          "tagText": "NDA"
+          "tag_text": "NDA"
         },
         {
-          "tagText": "GMAT"
+          "tag_text": "GMAT"
         },
         {
-          "tagText": "RRB"
+          "tag_text": "RRB"
         }
       ],
       "center_discount": 0,
@@ -1342,10 +1342,10 @@
       "center_distance": 4226,
       "center_tags": [
         {
-          "tagText": "NDA"
+          "tag_text": "NDA"
         },
         {
-          "tagText": "SBI PO"
+          "tag_text": "SBI PO"
         }
       ],
       "center_discount": 28,
@@ -1365,7 +1365,7 @@
       "center_distance": 3196,
       "center_tags": [
         {
-          "tagText": "CAT"
+          "tag_text": "CAT"
         }
       ],
       "center_discount": 0,
@@ -1385,16 +1385,16 @@
       "center_distance": 2722,
       "center_tags": [
         {
-          "tagText": "IBPS PO"
+          "tag_text": "IBPS PO"
         },
         {
-          "tagText": "GATE"
+          "tag_text": "GATE"
         },
         {
-          "tagText": "GMAT"
+          "tag_text": "GMAT"
         },
         {
-          "tagText": "JEE"
+          "tag_text": "JEE"
         }
       ],
       "center_discount": 0,
@@ -1417,10 +1417,10 @@
       "center_distance": 3284,
       "center_tags": [
         {
-          "tagText": "IELTS"
+          "tag_text": "IELTS"
         },
         {
-          "tagText": "CTET"
+          "tag_text": "CTET"
         }
       ],
       "center_discount": 0,
@@ -1443,7 +1443,7 @@
       "center_distance": 797,
       "center_tags": [
         {
-          "tagText": "GATE"
+          "tag_text": "GATE"
         }
       ],
       "center_discount": 0,
@@ -1463,7 +1463,7 @@
       "center_distance": 3214,
       "center_tags": [
         {
-          "tagText": "AFCAT"
+          "tag_text": "AFCAT"
         }
       ],
       "center_discount": 0,
@@ -1483,7 +1483,7 @@
       "center_distance": 4407,
       "center_tags": [
         {
-          "tagText": "IBPS PO"
+          "tag_text": "IBPS PO"
         }
       ],
       "center_discount": 98,
@@ -1505,16 +1505,16 @@
       "center_distance": 3032,
       "center_tags": [
         {
-          "tagText": "UGC-NET"
+          "tag_text": "UGC-NET"
         },
         {
-          "tagText": "NDA"
+          "tag_text": "NDA"
         },
         {
-          "tagText": "GATE"
+          "tag_text": "GATE"
         },
         {
-          "tagText": "CLAT"
+          "tag_text": "CLAT"
         }
       ],
       "center_discount": 0,
@@ -1537,16 +1537,16 @@
       "center_distance": 4825,
       "center_tags": [
         {
-          "tagText": "IBPS PO"
+          "tag_text": "IBPS PO"
         },
         {
-          "tagText": "AFCAT"
+          "tag_text": "AFCAT"
         },
         {
-          "tagText": "CAT"
+          "tag_text": "CAT"
         },
         {
-          "tagText": "GATE"
+          "tag_text": "GATE"
         }
       ],
       "center_discount": 0,
@@ -1566,16 +1566,16 @@
       "center_distance": 2362,
       "center_tags": [
         {
-          "tagText": "JEE"
+          "tag_text": "JEE"
         },
         {
-          "tagText": "GATE"
+          "tag_text": "GATE"
         },
         {
-          "tagText": "IELTS"
+          "tag_text": "IELTS"
         },
         {
-          "tagText": "RRB"
+          "tag_text": "RRB"
         }
       ],
       "center_discount": 0,
@@ -1597,10 +1597,10 @@
       "center_distance": 1307,
       "center_tags": [
         {
-          "tagText": "GATE"
+          "tag_text": "GATE"
         },
         {
-          "tagText": "SSC CGL"
+          "tag_text": "SSC CGL"
         }
       ],
       "center_discount": 0,
@@ -1623,7 +1623,7 @@
       "center_distance": 1696,
       "center_tags": [
         {
-          "tagText": "GMAT"
+          "tag_text": "GMAT"
         }
       ],
       "center_discount": 0,
@@ -1643,10 +1643,10 @@
       "center_distance": 1415,
       "center_tags": [
         {
-          "tagText": "UPSC"
+          "tag_text": "UPSC"
         },
         {
-          "tagText": "CLAT"
+          "tag_text": "CLAT"
         }
       ],
       "center_discount": 56,
@@ -1668,7 +1668,7 @@
       "center_distance": 2803,
       "center_tags": [
         {
-          "tagText": "TOEFL"
+          "tag_text": "TOEFL"
         }
       ],
       "center_discount": 0,
@@ -1690,16 +1690,16 @@
       "center_distance": 4763,
       "center_tags": [
         {
-          "tagText": "NEET"
+          "tag_text": "NEET"
         },
         {
-          "tagText": "NDA"
+          "tag_text": "NDA"
         },
         {
-          "tagText": "GATE"
+          "tag_text": "GATE"
         },
         {
-          "tagText": "SBI PO"
+          "tag_text": "SBI PO"
         }
       ],
       "center_discount": 16,
@@ -1721,16 +1721,16 @@
       "center_distance": 808,
       "center_tags": [
         {
-          "tagText": "IELTS"
+          "tag_text": "IELTS"
         },
         {
-          "tagText": "CAT"
+          "tag_text": "CAT"
         },
         {
-          "tagText": "UGC-NET"
+          "tag_text": "UGC-NET"
         },
         {
-          "tagText": "GMAT"
+          "tag_text": "GMAT"
         }
       ],
       "center_discount": 29,
@@ -1752,13 +1752,13 @@
       "center_distance": 3343,
       "center_tags": [
         {
-          "tagText": "GRE"
+          "tag_text": "GRE"
         },
         {
-          "tagText": "GATE"
+          "tag_text": "GATE"
         },
         {
-          "tagText": "TOEFL"
+          "tag_text": "TOEFL"
         }
       ],
       "center_discount": 0,
@@ -1781,7 +1781,7 @@
       "center_distance": 1056,
       "center_tags": [
         {
-          "tagText": "AFCAT"
+          "tag_text": "AFCAT"
         }
       ],
       "center_discount": 53,
@@ -1801,13 +1801,13 @@
       "center_distance": 1573,
       "center_tags": [
         {
-          "tagText": "CLAT"
+          "tag_text": "CLAT"
         },
         {
-          "tagText": "TOEFL"
+          "tag_text": "TOEFL"
         },
         {
-          "tagText": "RRB"
+          "tag_text": "RRB"
         }
       ],
       "center_discount": 96,
@@ -1830,16 +1830,16 @@
       "center_distance": 4419,
       "center_tags": [
         {
-          "tagText": "IELTS"
+          "tag_text": "IELTS"
         },
         {
-          "tagText": "CAT"
+          "tag_text": "CAT"
         },
         {
-          "tagText": "JEE"
+          "tag_text": "JEE"
         },
         {
-          "tagText": "GATE"
+          "tag_text": "GATE"
         }
       ],
       "center_discount": 0,
@@ -1862,16 +1862,16 @@
       "center_distance": 1756,
       "center_tags": [
         {
-          "tagText": "RRB"
+          "tag_text": "RRB"
         },
         {
-          "tagText": "TOEFL"
+          "tag_text": "TOEFL"
         },
         {
-          "tagText": "GRE"
+          "tag_text": "GRE"
         },
         {
-          "tagText": "IBPS PO"
+          "tag_text": "IBPS PO"
         }
       ],
       "center_discount": 94,
@@ -1891,10 +1891,10 @@
       "center_distance": 1142,
       "center_tags": [
         {
-          "tagText": "CTET"
+          "tag_text": "CTET"
         },
         {
-          "tagText": "RRB"
+          "tag_text": "RRB"
         }
       ],
       "center_discount": 0,
@@ -1919,13 +1919,13 @@
       "center_distance": 793,
       "center_tags": [
         {
-          "tagText": "CAT"
+          "tag_text": "CAT"
         },
         {
-          "tagText": "GATE"
+          "tag_text": "GATE"
         },
         {
-          "tagText": "UGC-NET"
+          "tag_text": "UGC-NET"
         }
       ],
       "center_discount": 0,
@@ -1945,16 +1945,16 @@
       "center_distance": 4326,
       "center_tags": [
         {
-          "tagText": "CAT"
+          "tag_text": "CAT"
         },
         {
-          "tagText": "NDA"
+          "tag_text": "NDA"
         },
         {
-          "tagText": "SBI PO"
+          "tag_text": "SBI PO"
         },
         {
-          "tagText": "AFCAT"
+          "tag_text": "AFCAT"
         }
       ],
       "center_discount": 95,
@@ -1974,10 +1974,10 @@
       "center_distance": 3610,
       "center_tags": [
         {
-          "tagText": "SSC CGL"
+          "tag_text": "SSC CGL"
         },
         {
-          "tagText": "JEE"
+          "tag_text": "JEE"
         }
       ],
       "center_discount": 22,

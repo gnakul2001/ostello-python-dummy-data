@@ -44,7 +44,7 @@ def generate_random_data(wantListOnly=False):
             tag_choice = random.choice(available_exams)
             available_exams.remove(tag_choice)
             is_highlighted = False
-            random_tags.append({"tagText": tag_choice})
+            random_tags.append({"tag_text": tag_choice})
 
         # Optionally add a bottom text indicating the number of students.
         if random.choice([True, False]):
