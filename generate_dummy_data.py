@@ -44,12 +44,7 @@ def generate_random_data(wantListOnly=False):
             tag_choice = random.choice(available_exams)
             available_exams.remove(tag_choice)
             is_highlighted = False
-            random_tags.append({"tagText": tag_choice, "isHighlighted": is_highlighted})
-
-        # Randomly decide if a discount tag should be added and append it to the tags.
-        if random.choice([True, False]):
-            discount_value = random.randint(10, 100)
-            random_tags.append({"tagText": f"{discount_value}% Off", "isHighlighted": True})
+            random_tags.append({"tagText": tag_choice})
 
         # Optionally add a bottom text indicating the number of students.
         if random.choice([True, False]):
@@ -67,6 +62,7 @@ def generate_random_data(wantListOnly=False):
                 "center_rating": round(random.uniform(3, 5), 1),
                 "center_distance": random.randint(500, 5000),
                 "center_tags": random_tags,
+                "center_discount": random.randint(10, 100) if random.choice([True, False]) else 0,
                 "bottom_texts": bottomTexts
             }
         }
